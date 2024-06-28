@@ -23,6 +23,7 @@ def get_dict_from_driver_block(block):
     vzorec_najhitrejsi_krog = r'<td class="msr_col9">(.*?)</td>'
     vzorec_naslovi = r'<td class="msr_col91">&nbsp;(.*?)</td>'
     vzorec_tocke = r'<td class="msr_col10">(.*?)</td>'
+    vzorec_dodatni_url = r"></a> <a href='(.*?)' title="
     ime = re.search(vzorec_ime, block)
     drzava = re.search(vzorec_drzava, block)
     nastopi = re.search(vzorec_nastopi, block)
@@ -34,13 +35,20 @@ def get_dict_from_driver_block(block):
     najhitrejsi_krog = re.search(vzorec_najhitrejsi_krog, block)
     naslovi = re.search(vzorec_naslovi, block)
     tocke = re.search(vzorec_tocke, block)
-    if ime == None or drzava == None or nastopi == None or prvo_mesto == None or drugo_mesto == None or tretje_mesto == None or stopnicke == None or starta_prvi == None or najhitrejsi_krog == None or naslovi == None or tocke == None:
+    dodatni_url = re.search(vzorec_dodatni_url, block)
+    if ime == None or drzava == None or nastopi == None or prvo_mesto == None or drugo_mesto == None or tretje_mesto == None or stopnicke == None or starta_prvi == None or najhitrejsi_krog == None or naslovi == None or tocke == None or dodatni_url == None:
         return None
     else:
-        return {"ime": ime.group(1), "država": drzava.group(1), "nastopi": nastopi.group(1), "prvo mesto": prvo_mesto.group(1), "drugo mesto": drugo_mesto.group(1), "tretje mesto": tretje_mesto.group(1), "stopničke": stopnicke.group(1), "začne s prve pozicije": starta_prvi.group(1), "najhitrejši krog": najhitrejsi_krog.group(1), "naslovi": naslovi.group(1), "točke": tocke.group(1)}
+        return {"ime": ime.group(1), "država": drzava.group(1), "nastopi": nastopi.group(1), "prvo mesto": prvo_mesto.group(1), "drugo mesto": drugo_mesto.group(1), "tretje mesto": tretje_mesto.group(1), "stopničke": stopnicke.group(1), "začne s prve pozicije": starta_prvi.group(1), "najhitrejši krog": najhitrejsi_krog.group(1), "naslovi": naslovi.group(1), "točke": tocke.group(1), "dodatni url": dodatni_url.group(1)}
 
 def drivers_from_file(filename, directory):
     page_content = read_file_to_string(directory, filename)
     blocks = page_to_drivers(page_content)
     drivers = [get_dict_from_driver_block(block) for block in blocks]
     return [driver for driver in drivers if driver != None]
+
+def urls(filename, directory):
+    page_content = read_file_to_string(directory, filename)
+    blocks = page_to_drivers(page_content)
+    drivers = [get_dict_from_driver_block(block) for block in blocks]
+    return [driver['dodatni url'] for driver in drivers if driver != None]
