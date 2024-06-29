@@ -12,16 +12,7 @@ drivers_page_url = uvozi.drivers_page_url
 csv_filename = 'F1_drivers.csv'
 sez = []
 
-def preberi_stevilo():
-    niz = input("> Vnesi najnižje število točk, ki jih morajo imeti vozniki, ki jih želite dodatno analizirati: ")
-    if niz.isnumeric() and int(niz) < 4700 or niz[1:].isnumeric() and niz[0] == "-":
-        return int(niz)
-    elif niz.isnumeric() and int(niz) >= 4700 or niz[1:].isnumeric() and niz[0] == "-":
-        print('Žal mora biti število manjše od 4700')
-        return preberi_stevilo()
-    else:
-        print(f'Žal "{niz}" ni celo število, poskusi ponovno!')
-        return preberi_stevilo()
+
 
 
 
@@ -40,10 +31,21 @@ def main(redownload=True, reparse=True):
         print("Datoteka csv že obstaja")
 
 
-
-
 if __name__ == '__main__':
     main(False, True)
+
+
+def preberi_stevilo():
+    max_tock = izlusci.najvec_tock(frontpage_filename, drivers_directory)
+    niz = input("> Vnesi najnižje število točk, ki jih morajo imeti vozniki, ki jih želite dodatno analizirati: ")
+    if niz.isnumeric() and int(niz) < max_tock or niz[1:].isnumeric() and niz[0] == "-":
+        return int(niz)
+    elif niz.isnumeric() and int(niz) >= max_tock or niz[1:].isnumeric() and niz[0] == "-":
+        print(f'Žal mora biti število manjše od {max_tock}')
+        return preberi_stevilo()
+    else:
+        print(f'Žal "{niz}" ni celo število, poskusi ponovno!')
+        return preberi_stevilo()
 
 
 
@@ -66,7 +68,7 @@ def main(redownload=True, reparse=True):
 
     path = os.path.join(drivers_directory, csv_filename)
     if reparse or not os.path.exists(path):
-        write_csv.write_drivers_to_csv(sez, drivers_directory, 'F1_drivers_razsirjeno.csv')
+        write_csv.write_drivers_to_csv(sez, drivers_directory, 'F1_drivers_dodatno.csv')
     else:
         print("Datoteka csv že obstaja")
 

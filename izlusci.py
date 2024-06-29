@@ -52,3 +52,10 @@ def drivers_from_file(filename, directory):
     blocks = page_to_drivers(page_content)
     drivers = [get_dict_from_driver_block(block) for block in blocks]
     return [driver for driver in drivers if driver != None]
+
+def najvec_tock(filename, directory):
+    sez = []
+    for driver in drivers_from_file(filename, directory):
+        sez.append(int(driver['točke']))
+    return max(sez)
+    
