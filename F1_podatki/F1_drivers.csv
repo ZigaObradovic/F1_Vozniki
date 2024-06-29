@@ -1,30 +1,30 @@
 ime,država,nastopi,prvo mesto,drugo mesto,tretje mesto,stopničke,začne s prve pozicije,najhitrejši krog,naslovi,točke,dodatni url
-Lewis Hamilton,United Kingdom,342,103,56,39,198,104,67,7,4709.5,https://www.f1-fansite.com/f1-drivers/lewis-hamilton/
+Lewis Hamilton,United Kingdom,342,103,56,39,198,104,67,7,4709,https://www.f1-fansite.com/f1-drivers/lewis-hamilton/
 Sebastian Vettel,Germany,299,53,36,33,122,57,38,4,3098,https://www.f1-fansite.com/f1-drivers/sebastian-vettel/
-Max Verstappen,Netherlands,195,61,29,16,106,39,32,3,2805.5,https://www.f1-fansite.com/f1-drivers/max-verstappen-information-statistics/
+Max Verstappen,Netherlands,195,61,29,16,106,39,32,3,2805,https://www.f1-fansite.com/f1-drivers/max-verstappen-information-statistics/
 Fernando Alonso,Spain,387,32,40,34,106,22,25,2,2308,https://www.f1-fansite.com/f1-drivers/fernando-alonso/
 Kimi Räikkönen,Finland,349,21,37,45,103,18,46,1,1873,https://www.f1-fansite.com/f1-drivers/kimi-raikkonen/
 Valtteri Bottas,Finland,232,10,29,28,67,20,19,0,1797,https://www.f1-fansite.com/f1-drivers/valtteri-bottas-information-statistics/
 Sergio Pérez,Mexico,267,6,17,16,39,4,11,0,1597,https://www.f1-fansite.com/f1-drivers/sergio-perez/
-Nico Rosberg,Germany,206,23,25,9,57,30,20,1,1594.5,https://www.f1-fansite.com/f1-drivers/nico-rosberg/
+Nico Rosberg,Germany,206,23,25,9,57,30,20,1,1594,https://www.f1-fansite.com/f1-drivers/nico-rosberg/
 Michael Schumacher,Germany,307,91,43,21,155,68,77,7,1566,https://www.f1-fansite.com/f1-drivers/michael-schumacher/
 Daniel Ricciardo,Australia,249,8,6,18,32,3,16,0,1326,https://www.f1-fansite.com/f1-drivers/daniel-ricciardo/
 Jenson Button,United Kingdom,306,15,15,20,50,8,8,1,1235,https://www.f1-fansite.com/f1-drivers/jenson-button/
 Charles Leclerc,Monaco,133,6,13,16,35,23,9,0,1218,https://www.f1-fansite.com/f1-drivers/charles-leclerc-information-statistics/
 Felipe Massa,Brazil,269,11,13,17,41,16,15,0,1167,https://www.f1-fansite.com/f1-drivers/felipe-massa/
-Carlos Sainz,Spain,192,3,5,14,22,5,3,0,1095.5,https://www.f1-fansite.com/f1-drivers/carlos-sainz-jr-information-statistics/
-Mark Webber,Australia,215,9,16,17,42,13,19,0,1047.5,https://www.f1-fansite.com/f1-drivers/mark-webber/
-Alain Prost,France,199,51,35,20,106,33,41,4,798.5,https://www.f1-fansite.com/f1-drivers/alain-prost/
+Carlos Sainz,Spain,192,3,5,14,22,5,3,0,1095,https://www.f1-fansite.com/f1-drivers/carlos-sainz-jr-information-statistics/
+Mark Webber,Australia,215,9,16,17,42,13,19,0,1047,https://www.f1-fansite.com/f1-drivers/mark-webber/
+Alain Prost,France,199,51,35,20,106,33,41,4,798,https://www.f1-fansite.com/f1-drivers/alain-prost/
 Lando Norris,United Kingdom,114,1,11,7,19,2,7,0,783,https://www.f1-fansite.com/f1-drivers/lando-norris-information-statistics/
 Rubens Barrichello,Brazil,322,11,29,28,68,14,17,0,658,https://www.f1-fansite.com/f1-drivers/rubens-barrichello/
 Ayrton Senna,Brazil,161,41,23,16,80,65,19,3,614,https://www.f1-fansite.com/f1-drivers/ayrton-senna-da-silva/
 George Russell,United Kingdom,114,1,2,9,12,3,7,0,550,https://www.f1-fansite.com/f1-drivers/george-russell-information-statistics/
 Nico Hülkenberg,Germany,214,0,0,0,0,1,2,0,536,https://www.f1-fansite.com/f1-drivers/nico-hulkenberg/
 David Coulthard,United Kingdom,246,13,26,23,62,12,18,0,535,https://www.f1-fansite.com/f1-drivers/david-coulthard/
-Nelson Piquet,Brazil,204,23,20,17,60,24,23,3,485.5,https://www.f1-fansite.com/f1-drivers/nelson-piquet/
+Nelson Piquet,Brazil,204,23,20,17,60,24,23,3,485,https://www.f1-fansite.com/f1-drivers/nelson-piquet/
 Nigel Mansell,United Kingdom,188,31,17,11,59,32,30,1,482,https://www.f1-fansite.com/f1-drivers/nigel-mansell/
 Esteban Ocon,France,143,1,1,1,3,0,0,0,425,https://www.f1-fansite.com/f1-drivers/esteban-ocon-information-statistics/
-Niki Lauda,Austria,173,25,20,9,54,24,24,3,420.5,https://www.f1-fansite.com/f1-drivers/niki-lauda/
+Niki Lauda,Austria,173,25,20,9,54,24,24,3,420,https://www.f1-fansite.com/f1-drivers/niki-lauda/
 Mika Häkkinen,Finland,161,20,14,17,51,26,25,2,420,https://www.f1-fansite.com/f1-drivers/mika-hakkinen/
 Pierre Gasly,France,140,1,1,2,4,0,3,0,399,https://www.f1-fansite.com/f1-drivers/pierre-gasly-information-statistics/
 Romain Grosjean,France,179,0,2,8,10,0,1,0,391,https://www.f1-fansite.com/f1-drivers/romain-grosjean/
@@ -38,7 +38,7 @@ Graham Hill,United Kingdom,177,14,15,7,36,13,10,2,289,https://www.f1-fansite.com
 Lance Stroll,Canada,153,0,0,3,3,1,0,0,285,https://www.f1-fansite.com/f1-drivers/lance-stroll-information-statistics/
 Emerson Fittipaldi,Brazil,145,14,13,8,35,6,6,2,281,https://www.f1-fansite.com/f1-drivers/emerson-fittipaldi/
 Riccardo Patrese,Italy,256,6,17,14,37,8,13,0,281,https://www.f1-fansite.com/f1-drivers/riccardo-patrese/
-Juan Manuel Fangio,Argentina,51,24,10,1,35,29,23,5,277.64,https://www.f1-fansite.com/f1-drivers/juan-manuel-fangio/
+Juan Manuel Fangio,Argentina,51,24,10,1,35,29,23,5,277,https://www.f1-fansite.com/f1-drivers/juan-manuel-fangio/
 Giancarlo Fisichella,Italy,230,3,7,9,19,4,2,0,275,https://www.f1-fansite.com/f1-drivers/giancarlo-fisichella/
 Jim Clark,United Kingdom,72,25,1,6,32,33,28,2,274,https://www.f1-fansite.com/f1-drivers/jim-clark/
 Robert Kubica,Poland,96,1,4,6,11,1,1,0,265,https://www.f1-fansite.com/f1-drivers/robert-kubica/
@@ -46,7 +46,7 @@ Jack Brabham,Australia,126,14,10,7,31,13,10,3,261,https://www.f1-fansite.com/f1-
 Nick Heidfeld,Germany,181,0,8,5,13,1,2,0,256,https://www.f1-fansite.com/f1-drivers/nick-heidfeld/
 Jody Scheckter,South Africa,112,10,14,9,33,3,5,1,255,https://www.f1-fansite.com/f1-drivers/jody-scheckter/
 Denny Hulme,New Zealand,112,8,9,16,33,1,8,1,248,https://www.f1-fansite.com/f1-drivers/denny-hulme/
-Jarno Trulli,Italy,252,1,4,6,11,3,1,0,246.5,https://www.f1-fansite.com/f1-drivers/jarno-trulli/
+Jarno Trulli,Italy,252,1,4,6,11,3,1,0,246,https://www.f1-fansite.com/f1-drivers/jarno-trulli/
 Jean Alesi,France,201,1,16,15,32,2,4,0,241,https://www.f1-fansite.com/f1-drivers/jean-alesi/
 Jacques Villeneuve,Canada,164,11,5,7,23,13,9,1,235,https://www.f1-fansite.com/f1-drivers/jacques-villeneuve/
 Alex Albon,Thailand,91,0,0,2,2,0,0,0,230,https://www.f1-fansite.com/f1-drivers/alexander-albon-information-statistics/
@@ -55,11 +55,11 @@ Clay Regazzoni,Switzerland,131,5,13,10,28,5,15,0,212,https://www.f1-fansite.com/
 Alan Jones,Australia,116,12,7,5,24,6,13,1,206,https://www.f1-fansite.com/f1-drivers/alan-jones/
 Ronnie Peterson,Sweden,123,10,10,6,26,14,9,0,206,https://www.f1-fansite.com/f1-drivers/ronnie-peterson/
 Daniil Kvyat,Russian Federation,110,0,1,2,3,0,1,0,202,https://www.f1-fansite.com/f1-drivers/daniil-kvyat-information-statistics/
-Bruce McLaren,New Zealand,101,4,11,12,27,0,3,0,196.5,https://www.f1-fansite.com/f1-drivers/bruce-mclaren/
+Bruce McLaren,New Zealand,101,4,11,12,27,0,3,0,196,https://www.f1-fansite.com/f1-drivers/bruce-mclaren/
 Eddie Irvine,United Kingdom,146,4,6,16,26,0,1,0,191,https://www.f1-fansite.com/f1-drivers/eddie-irvine/
 Kevin Magnussen,Denmark,173,0,1,0,1,0,2,0,187,https://www.f1-fansite.com/f1-drivers/kevin-magnussen-information-statistics/
-Stirling Moss,United Kingdom,66,16,5,3,24,16,19,0,186.64,https://www.f1-fansite.com/f1-drivers/stirling-moss/
-Michele Alboreto,Italy,194,5,9,9,23,2,5,0,186.5,https://www.f1-fansite.com/f1-drivers/michele-alboreto/
+Stirling Moss,United Kingdom,66,16,5,3,24,16,19,0,186,https://www.f1-fansite.com/f1-drivers/stirling-moss/
+Michele Alboreto,Italy,194,5,9,9,23,2,5,0,186,https://www.f1-fansite.com/f1-drivers/michele-alboreto/
 Oscar Piastri,Australia,32,0,2,1,3,0,2,0,184,https://www.f1-fansite.com/f1-drivers/oscar-piastri/
 Jacky Ickx,Belgium,115,8,7,10,25,13,14,0,181,https://www.f1-fansite.com/f1-drivers/jacky-ickx/
 René Arnoux,France,149,7,9,6,22,18,12,0,181,https://www.f1-fansite.com/f1-drivers/rene-arnoux/
@@ -68,13 +68,13 @@ Mario Andretti,United States,128,12,2,5,19,18,10,1,180,https://www.f1-fansite.co
 James Hunt,United Kingdom,92,10,6,7,23,14,8,1,179,https://www.f1-fansite.com/f1-drivers/james-hunt/
 Heinz-Harald Frentzen,Germany,157,3,3,12,18,2,6,0,174,https://www.f1-fansite.com/f1-drivers/heinz-harald-frentzen/
 John Watson,United Kingdom,152,5,6,9,20,2,5,0,169,https://www.f1-fansite.com/f1-drivers/john-watson/
-Keke Rosberg,Finland,114,5,8,4,17,5,3,1,159.5,https://www.f1-fansite.com/f1-drivers/keke-rosberg/
+Keke Rosberg,Finland,114,5,8,4,17,5,3,1,159,https://www.f1-fansite.com/f1-drivers/keke-rosberg/
 Patrick Depailler,France,95,2,10,7,19,1,4,0,141,https://www.f1-fansite.com/f1-drivers/patrick-depailler/
-Alberto Ascari,Italy,32,13,4,0,17,14,12,2,140.14,https://www.f1-fansite.com/f1-drivers/alberto-ascari/
+Alberto Ascari,Italy,32,13,4,0,17,14,12,2,140,https://www.f1-fansite.com/f1-drivers/alberto-ascari/
 Dan Gurney,United States,86,4,8,7,19,3,6,0,133,https://www.f1-fansite.com/f1-drivers/dan-gurney/
 Thierry Boutsen,Belgium,163,3,2,10,15,1,1,0,132,https://www.f1-fansite.com/f1-drivers/thierry-boutsen/
-Mike Hawthorn,United Kingdom,46,3,9,6,18,4,6,1,127.64,https://www.f1-fansite.com/f1-drivers/mike-hawthorn/
-Nino Farina,Italy,33,5,9,6,20,5,5,1,127.33,https://www.f1-fansite.com/f1-drivers/nino-farina/
+Mike Hawthorn,United Kingdom,46,3,9,6,18,4,6,1,127,https://www.f1-fansite.com/f1-drivers/mike-hawthorn/
+Nino Farina,Italy,33,5,9,6,20,5,5,1,127,https://www.f1-fansite.com/f1-drivers/nino-farina/
 Kamui Kobayashi,Japan,75,0,0,1,1,0,1,0,125,https://www.f1-fansite.com/f1-drivers/kamui-kobayashi/
 Adrian Sutil,Germany,128,0,0,0,0,0,1,0,124,https://www.f1-fansite.com/f1-drivers/adrian-sutil/
 Elio de Angelis,Italy,109,2,2,5,9,3,0,0,122,https://www.f1-fansite.com/f1-drivers/elio-de-angelis/
@@ -92,12 +92,12 @@ François Cevert,France,47,1,10,2,13,0,2,0,89,https://www.f1-fansite.com/f1-driv
 Stefan Johansson,Sweden,79,0,4,8,12,0,0,0,88,https://www.f1-fansite.com/f1-drivers/stefan-johansson/
 Chris Amon,New Zealand,97,0,3,8,11,5,3,0,83,https://www.f1-fansite.com/f1-drivers/chris-amon/
 Yuki Tsunoda,Japan,73,0,0,0,0,0,1,0,80,https://www.f1-fansite.com/f1-drivers/yuki-tsunoda/
-José Froilán González,Argentina,26,2,7,6,15,3,6,0,77.64,https://www.f1-fansite.com/f1-drivers/jose-froilan-gonzalez/
+José Froilán González,Argentina,26,2,7,6,15,3,6,0,77,https://www.f1-fansite.com/f1-drivers/jose-froilan-gonzalez/
 Jean-Pierre Beltoise,France,85,1,3,4,8,0,4,0,77,https://www.f1-fansite.com/f1-drivers/jean-pierre-beltoise/
 Olivier Panis,France,157,1,3,1,5,0,0,0,76,https://www.f1-fansite.com/f1-drivers/olivier-panis/
 Tony Brooks,United Kingdom,39,6,2,2,10,3,3,0,75,https://www.f1-fansite.com/f1-drivers/tony-brooks/
 Pastor Maldonado,Venezuela,95,1,0,0,1,1,0,0,75,https://www.f1-fansite.com/f1-drivers/pastor-maldonado/
-Maurice Trintignant,France,84,2,3,5,10,0,1,0,72.33,https://www.f1-fansite.com/f1-drivers/maurice-trintignant/
+Maurice Trintignant,France,84,2,3,5,10,0,1,0,72,https://www.f1-fansite.com/f1-drivers/maurice-trintignant/
 Pedro Rodríguez,Mexico,53,2,3,2,7,0,1,0,71,https://www.f1-fansite.com/f1-drivers/pedro-rodriguez/
 Jochen Mass,Germany,105,1,1,6,8,0,2,0,71,https://www.f1-fansite.com/f1-drivers/jochen-mass/
 Derek Warwick,United Kingdom,147,0,2,2,4,0,2,0,71,https://www.f1-fansite.com/f1-drivers/derek-warwick/
@@ -111,7 +111,7 @@ Lorenzo Bandini,Italy,44,1,2,5,8,1,2,0,58,https://www.f1-fansite.com/f1-drivers/
 Carlos Pace,Brazil,72,1,3,2,6,1,5,0,58,https://www.f1-fansite.com/f1-drivers/carlos-pace/
 Wolfgang von Trips,Germany,27,2,2,2,6,1,0,0,56,https://www.f1-fansite.com/f1-drivers/wolfgang-von-trips/
 Jean-Eric Vergne,France,58,0,0,0,0,0,0,0,52,https://www.f1-fansite.com/f1-drivers/jean-eric-vergne/
-Jean Behra,France,52,0,2,7,9,0,1,0,51.14,https://www.f1-fansite.com/f1-drivers/jean-behra/
+Jean Behra,France,52,0,2,7,9,0,1,0,51,https://www.f1-fansite.com/f1-drivers/jean-behra/
 Timo Glock,Germany,91,0,2,1,3,0,1,0,51,https://www.f1-fansite.com/f1-drivers/timo-glock/
 Luigi Villoresi,Italy,31,0,2,6,8,0,1,0,49,https://www.f1-fansite.com/f1-drivers/luigi-villoresi-information-statistics/
 Peter Collins,United Kingdom,32,3,3,3,9,0,0,0,47,https://www.f1-fansite.com/f1-drivers/peter-collins/
@@ -127,7 +127,7 @@ Mika Salo,Finland,110,0,1,1,2,0,0,0,33,https://www.f1-fansite.com/f1-drivers/mik
 Luigi Fagioli,Italy,7,1,4,1,6,0,0,0,32,https://www.f1-fansite.com/f1-drivers/luigi-fagioli-information-statistics/ 
 Harry Schell,United States,56,0,1,1,2,0,0,0,32,https://www.f1-fansite.com/f1-drivers/harry-schell-information-statistics/
 Mark Blundell,United Kingdom,61,0,0,3,3,0,0,0,32,https://www.f1-fansite.com/f1-drivers/mark-blundell-information-statistics/
-Jean-Pierre Jarier,France,135,0,0,3,3,2,3,0,31.5,https://www.f1-fansite.com/f1-drivers/jean-pierre-jarier-information-statistics/
+Jean-Pierre Jarier,France,135,0,0,3,3,2,3,0,31,https://www.f1-fansite.com/f1-drivers/jean-pierre-jarier-information-statistics/
 Gunnar Nilsson,Sweden,31,1,0,3,4,0,1,0,31,https://www.f1-fansite.com/f1-drivers/gunnar-nilsson-information-statistics/
 Jaime Alguersuari,Spain,46,0,0,0,0,0,0,0,31,https://www.f1-fansite.com/f1-drivers/jaime-alguersuari-information-statistics/
 Ivan Capelli,Italy,93,0,2,1,3,0,0,0,31,https://www.f1-fansite.com/f1-drivers/ivan-capelli-information-statistics/
@@ -146,7 +146,7 @@ Jean-Pierre Jabouille,France,49,2,0,0,2,6,0,0,21,https://www.f1-fansite.com/f1-d
 Antonio Giovinazzi,Italy,62,0,0,0,0,0,0,0,21,https://www.f1-fansite.com/f1-drivers/antonio-giovinazzi-information-statistics/
 Sam Hanks,United States,8,1,1,2,4,0,0,0,20,https://www.f1-fansite.com/f1-drivers/sam-hanks-information-statistics/
 Piers Courage,United Kingdom,27,0,2,0,2,0,0,0,20,https://www.f1-fansite.com/f1-drivers/piers-courage-information-statistics/
-Eugenio Castellotti,Italy,14,0,2,1,3,1,0,0,19.5,https://www.f1-fansite.com/f1-drivers/eugenio-castellotti-information-statistics/
+Eugenio Castellotti,Italy,14,0,2,1,3,1,0,0,19,https://www.f1-fansite.com/f1-drivers/eugenio-castellotti-information-statistics/
 Bill Vukovich,United States,5,2,0,0,2,1,3,0,19,https://www.f1-fansite.com/f1-drivers/bill-vukovich/
 Nelson Piquet Jr.,Brazil,28,0,1,0,1,0,0,0,19,https://www.f1-fansite.com/f1-drivers/nelson-piquet-jr/
 Tom Pryce,United Kingdom,42,0,0,2,2,1,0,0,19,https://www.f1-fansite.com/f1-drivers/tom-pryce-information-statistics/
@@ -156,16 +156,16 @@ Olivier Gendebien,Belgium,16,0,1,1,2,0,0,0,18,https://www.f1-fansite.com/f1-driv
 Louis Rosier,France,38,0,0,2,2,0,0,0,18,https://www.f1-fansite.com/f1-drivers/louis-rosier-information-statistics/
 Marcus Ericsson,Sweden,97,0,0,0,0,0,0,0,18,https://www.f1-fansite.com/f1-drivers/marcus-ericsson-information-statistics/
 Pierluigi Martini,Italy,119,0,0,0,0,0,0,0,18,https://www.f1-fansite.com/f1-drivers/pierluigi-martini-information-statistics/
-Felice Bonetto,Italy,15,0,0,2,2,0,0,0,17.5,https://www.f1-fansite.com/f1-drivers/felice-bonetto-information-statistics/
-Ludovico Scarfiotti,Italy,11,1,0,0,1,0,1,0,17,https://www.f1-fansite.com/f1-drivers/ludovico-scarfiotti-information-statistics/
+Felice Bonetto,Italy,15,0,0,2,2,0,0,0,17,https://www.f1-fansite.com/f1-drivers/felice-bonetto-information-statistics/
 Karl Kling,Germany,11,0,1,1,2,0,1,0,17,https://www.f1-fansite.com/f1-drivers/karl-kling-information-statistics/
+Ludovico Scarfiotti,Italy,11,1,0,0,1,0,1,0,17,https://www.f1-fansite.com/f1-drivers/ludovico-scarfiotti-information-statistics/
 Stefano Modena,Italy,73,0,1,1,2,0,0,0,17,https://www.f1-fansite.com/f1-drivers/stefano-modena-information-statistics/
 Marc Surer,Switzerland,82,0,0,0,0,0,1,0,17,https://www.f1-fansite.com/f1-drivers/marc-surer-information-statistics/
 Jos Verstappen,Netherlands,106,0,0,2,2,0,0,0,17,https://www.f1-fansite.com/f1-drivers/jos-verstappen/
 Stuart Lewis-Evans,United Kingdom,14,0,0,2,2,2,0,0,16,https://www.f1-fansite.com/f1-drivers/stuart-lewis-evans-information-statistics/
 Robert Manzon,France,28,0,0,2,2,0,0,0,16,https://www.f1-fansite.com/f1-drivers/robert-manzon-information-statistics/
 Satoru Nakajima,Japan,74,0,0,0,0,0,1,0,16,https://www.f1-fansite.com/f1-drivers/satoru-nakajima-information-statistics/
-Vittorio Brambilla,Italy,74,1,0,0,1,1,1,0,15.5,https://www.f1-fansite.com/f1-drivers/vittorio-brambilla-information-statistics/
+Vittorio Brambilla,Italy,74,1,0,0,1,1,1,0,15,https://www.f1-fansite.com/f1-drivers/vittorio-brambilla-information-statistics/
 Roberto Moreno,Brazil,43,0,1,0,1,0,1,0,15,https://www.f1-fansite.com/f1-drivers/roberto-moreno-information-statistics/
 Derek Daly,Ireland,49,0,0,0,0,0,0,0,15,https://www.f1-fansite.com/f1-drivers/derek-daly-information-statistics/
 Mike Parkes,United Kingdom,6,0,2,0,2,1,0,0,14,https://www.f1-fansite.com/f1-drivers/mike-parkes-information-statistics/
@@ -201,19 +201,19 @@ Howden Ganley,New Zealand,36,0,0,0,0,0,0,0,10,https://www.f1-fansite.com/f1-driv
 Jyrki Järvilehto,Finland,62,0,0,1,1,0,0,0,10,https://www.f1-fansite.com/jj-lehto-jyrki-jarvilehto/
 Maurício Gugelmin,Brazil,74,0,0,1,1,0,1,0,10,https://www.f1-fansite.com/f1-drivers/mauricio-gugelmin-information-statistics/
 Pedro Diniz,Brazil,99,0,0,0,0,0,0,0,10,https://www.f1-fansite.com/f1-drivers/pedro-diniz-information-statistics/
-Troy Ruttman,United States,8,1,0,0,1,0,0,0,9.5,https://www.f1-fansite.com/f1-drivers/troy-ruttman-information-statistics/
+Troy Ruttman,United States,8,1,0,0,1,0,0,0,9,https://www.f1-fansite.com/f1-drivers/troy-ruttman-information-statistics/
 Lee Wallard,United States,2,1,0,0,1,0,1,0,9,https://www.f1-fansite.com/f1-drivers/lee-wallard-information-statistics/
-Jack McGrath,United States,6,0,0,2,2,1,1,0,9,https://www.f1-fansite.com/f1-drivers/jack-mcgrath-information-statistics/
 Reg Parnell,United Kingdom,6,0,0,1,1,0,0,0,9,https://www.f1-fansite.com/f1-drivers/reg-parnell-information-statistics/
+Jack McGrath,United States,6,0,0,2,2,1,1,0,9,https://www.f1-fansite.com/f1-drivers/jack-mcgrath-information-statistics/
 Carlos Menditeguy,Argentina,10,0,0,1,1,0,0,0,9,https://www.f1-fansite.com/f1-drivers/carlos-menditeguy-information-statistics/
 Johnny Servoz-Gavin,France,12,0,1,0,1,0,0,0,9,https://www.f1-fansite.com/f1-drivers/johnny-servoz-gavin-information-statistics/
 Toulo de Graffenried,Switzerland,22,0,0,0,0,0,0,0,9,https://www.f1-fansite.com/f1-drivers/toulo-de-graffenried-information-statistics/
 Jolyon Palmer,United Kingdom,35,0,0,0,0,0,0,0,9,https://www.f1-fansite.com/f1-drivers/jolyon-palmer-information-statistics/
 Kazuki Nakajima,Japan,36,0,0,0,0,0,0,0,9,https://www.f1-fansite.com/f1-drivers/kazuki-nakajima-information-statistics/
 Nicholas Latifi,Canada,61,0,0,0,0,0,0,0,9,https://www.f1-fansite.com/f1-drivers/nicholas-latifi-info-statistics/
-Paul Russo,United States,8,0,1,0,1,0,1,0,8.5,https://www.f1-fansite.com/f1-drivers/paul-russo-information-statistics/
-Gianni Morbidelli,Italy,67,0,0,1,1,0,0,0,8.5,https://www.f1-fansite.com/f1-drivers/gianni-morbidelli-information-statistics/
-Onofre Marimón,Argentina,11,0,0,2,2,0,1,0,8.14,https://www.f1-fansite.com/f1-drivers/onofre-marimon-information-statistics/
+Paul Russo,United States,8,0,1,0,1,0,1,0,8,https://www.f1-fansite.com/f1-drivers/paul-russo-information-statistics/
+Gianni Morbidelli,Italy,67,0,0,1,1,0,0,0,8,https://www.f1-fansite.com/f1-drivers/gianni-morbidelli-information-statistics/
+Onofre Marimón,Argentina,11,0,0,2,2,0,1,0,8,https://www.f1-fansite.com/f1-drivers/onofre-marimon-information-statistics/
 Mike Nazaruk,United States,3,0,1,0,1,0,0,0,8,https://www.f1-fansite.com/f1-drivers/mike-nazaruk-information-statistics/
 Art Cross,United States,4,0,1,0,1,0,0,0,8,https://www.f1-fansite.com/f1-drivers/art-cross-information-statistics/
 Bob Sweikert,United States,5,1,0,0,1,0,0,0,8,https://www.f1-fansite.com/f1-drivers/bob-sweikert-information-statistics/
@@ -233,7 +233,7 @@ Tiago Monteiro,Portugal,37,0,0,1,1,0,0,0,7,https://www.f1-fansite.com/f1-drivers
 Nicola Larini,Italy,50,0,1,0,1,0,0,0,7,https://www.f1-fansite.com/f1-drivers/nicola-larini-information-statistics/
 Érik Comas,France,59,0,0,0,0,0,0,0,7,https://www.f1-fansite.com/f1-drivers/erik-comas-information-statistics/
 Philippe Alliot,France,110,0,0,0,0,0,0,0,7,https://www.f1-fansite.com/f1-drivers/philippe-alliot-information-statistics/
-Duane Carter,United States,8,0,0,1,1,0,0,0,6.5,https://www.f1-fansite.com/f1-drivers/duane-carter-information-statistics/
+Duane Carter,United States,8,0,0,1,1,0,0,0,6,https://www.f1-fansite.com/f1-drivers/duane-carter-information-statistics/
 George Amick,United States,1,0,1,0,1,0,0,0,6,https://www.f1-fansite.com/f1-drivers/george-amick-information-statistics/
 Oliver Bearman,United Kingdom,1,0,0,0,0,0,0,0,6,https://www.f1-fansite.com/f1-drivers/oliver-bearman-f1-stats-info/
 Bill Holland,United States,2,0,1,0,1,0,0,0,6,https://www.f1-fansite.com/f1-drivers/bill-holland-information-statistics/
@@ -250,17 +250,17 @@ Andy Linden,United States,7,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-driver
 Cesare Perdisa,Italy,7,0,0,2,2,0,0,0,5,https://www.f1-fansite.com/f1-drivers/cesare-perdisa-information-statistics/
 George Follmer,United States,12,0,0,1,1,0,0,0,5,https://www.f1-fansite.com/f1-drivers/george-follmer-information-statistics/
 Jack Fairman,United Kingdom,12,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/jack-fairman-information-statistics/
-Yves Giraud Cabantous,France,13,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/yves-giraud-cabantous-information-statistics/
 Ron Flockhart,United Kingdom,13,0,0,1,1,0,0,0,5,https://www.f1-fansite.com/f1-drivers/ron-flockhart-information-statistics/
-Mauro Baldi,Italy,36,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/mauro-baldi-information-statistics/
+Yves Giraud Cabantous,France,13,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/yves-giraud-cabantous-information-statistics/
 Marc Gené,Spain,36,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/marc-gene-information-statistics/
+Mauro Baldi,Italy,36,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/mauro-baldi-information-statistics/
 Narain Karthikeyan,India,46,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/narain-karthikeyan/
 Bertrand Gachot,France,47,0,0,0,0,0,1,0,5,https://www.f1-fansite.com/f1-drivers/bertrand-gachot-information-statistics/
 Ukyo Katayama,Japan,95,0,0,0,0,0,0,0,5,https://www.f1-fansite.com/f1-drivers/ukyo-katayama-information-statistics/
 Mauri Rose,United States,2,0,0,1,1,0,0,0,4,https://www.f1-fansite.com/f1-drivers/mauri-rose-information-statistics/
-Ricardo Rodríguez,Mexico,5,0,0,0,0,0,0,0,4,https://www.f1-fansite.com/f1-drivers/ricardo-rodriguez-information-statistics/
 Alfonso de Portago,Spain,5,0,1,0,1,0,0,0,4,https://www.f1-fansite.com/f1-drivers/alfonso-de-portago-information-statistics/
 Jimmy Davies,United States,5,0,0,1,1,0,0,0,4,https://www.f1-fansite.com/f1-drivers/jimmy-davies-information-statistics/
+Ricardo Rodríguez,Mexico,5,0,0,0,0,0,0,0,4,https://www.f1-fansite.com/f1-drivers/ricardo-rodriguez-information-statistics/
 Johnny Boyd,United States,6,0,0,1,1,0,0,0,4,https://www.f1-fansite.com/f1-drivers/johnny-boyd-information-statistics/
 Sergio Mantovani,Italy,7,0,0,0,0,0,0,0,4,https://www.f1-fansite.com/f1-drivers/sergio-mantovani-information-statistics/
 Don Freeland,United States,8,0,0,1,1,0,0,0,4,https://www.f1-fansite.com/f1-drivers/don-freeland-information-statistics/
@@ -271,47 +271,47 @@ Brendon Hartley,New Zealand,25,0,0,0,0,0,0,0,4,https://www.f1-fansite.com/f1-dri
 Carel Godin de Beaufort,Netherlands,29,0,0,0,0,0,0,0,4,https://www.f1-fansite.com/f1-drivers/carel-godin-de-beaufort-information-statistics/
 Christian Danner,Germany,37,0,0,0,0,0,0,0,4,https://www.f1-fansite.com/f1-drivers/christian-danner-information-statistics/
 Christijan Albers,Netherlands,46,0,0,0,0,0,0,0,4,https://www.f1-fansite.com/f1-drivers/christijan-albers/
-Umberto Maglioli,Italy,10,0,0,2,2,0,0,0,3.33,https://www.f1-fansite.com/f1-drivers/umberto-maglioli-information-statistics/
+Umberto Maglioli,Italy,10,0,0,2,2,0,0,0,3,https://www.f1-fansite.com/f1-drivers/umberto-maglioli-information-statistics/
 Dorino Serafini,Italy,1,0,1,0,1,0,0,0,3,https://www.f1-fansite.com/f1-drivers/dorino-serafini-information-statistics/
-Cecil Green,United States,2,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/cecil-green-information-statistics/
-Dennis Poore,United Kingdom,2,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/dennis-poore-information-statistics/
 Don Branson,United States,2,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/don-branson-information-statistics/
+Dennis Poore,United Kingdom,2,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/dennis-poore-information-statistics/
+Cecil Green,United States,2,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/cecil-green-information-statistics/
 Giulio Cabianca,Italy,3,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/giulio-cabianca-information-statistics/
 Ignazio Giunti,Italy,4,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/ignazio-giunti-information-statistics/
-Consalvo Sanesi,Italy,5,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/consalvo-sanesi-information-statistics/
 Raymond Sommer,France,5,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/raymond-sommer-information-statistics/
+Consalvo Sanesi,Italy,5,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/consalvo-sanesi-information-statistics/
 Gerhard Mitter,Germany,6,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/gerhard-mitter-information-statistics/
 Henry Taylor,United Kingdom,8,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/henry-taylor-information-statistics/
-Bob Bondurant,United States,9,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/bob-bondurant-information-statistics/
 Jackie Lewis,United Kingdom,9,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/jackie-lewis-information-statistics/
-Patrick Friesacher,Austria,11,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/patrick-friesacher-information-statistics/
+Bob Bondurant,United States,9,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/bob-bondurant-information-statistics/
 Jean-Christophe Boullion,France,11,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/jean-christophe-boullion-information-statistics/
 Jim Hall,United States,11,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/jim-hall-information-statistics/
-Philippe Étancelin,France,12,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/philippe-etancelin-information-statistics/
+Patrick Friesacher,Austria,11,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/patrick-friesacher-information-statistics/
 Silvio Moser,Switzerland,12,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/silvio-moser-information-statistics/
+Philippe Étancelin,France,12,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/philippe-etancelin-information-statistics/
 Johnny Dumfries,United Kingdom,15,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/johnny-dumfries-information-statistics/
 Ken Wharton,United Kingdom,15,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/ken-wharton-information-statistics/
 Eliseo Salazar,Chile,24,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/eliseo-salazar-information-statistics/
 Wilson Fittipaldi,Brazil,35,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/wilson-fittipaldi-information-statistics/
 Ricardo Zonta,Brazil,36,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/ricardo-zonta-information-statistics/
 Emanuele Pirro,Italy,37,0,0,0,0,0,0,0,3,https://www.f1-fansite.com/f1-drivers/emanuele-pirro-information-statistics/
-Eric Thompson,United Kingdom,1,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/eric-thompson-information-statistics/
 Óscar Alfredo Gálvez,Argentina,1,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/oscar-alfredo-galvez-information-statistics/
+Eric Thompson,United Kingdom,1,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/eric-thompson-information-statistics/
 Hermann Lang,Germany,2,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/hermann-lang-information-statistics/
 Bobby Ball,United States,2,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/bobby-ball-information-statistics/
-Walt Hansgen,United States,4,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/walt-hansgen-information-statistics/
 Manny Ayulo,United States,4,0,0,1,1,0,0,0,2,https://www.f1-fansite.com/f1-drivers/manny-ayulo-information-statistics/
-Dick Rathmann,United States,5,0,0,0,0,1,0,0,2,https://www.f1-fansite.com/f1-drivers/dick-rathmann-information-statistics/
+Walt Hansgen,United States,4,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/walt-hansgen-information-statistics/
 Liam Lawson,New Zealand,5,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/liam-lawson-f1-stats-info/
+Dick Rathmann,United States,5,0,0,0,0,1,0,0,2,https://www.f1-fansite.com/f1-drivers/dick-rathmann-information-statistics/
 Hernando da Silva Ramos,Brazil,7,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/hernando-da-silva-ramos-information-statistics/
 Élie Bayol,France,7,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/elie-bayol-information-statistics/
+Gijs Van Lennep,Netherlands,8,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/gijs-van-lennep-information-statistics/
 Fabrizio Barbazza,Italy,8,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/fabrizio-barbazza-information-statistics/
 Alan Brown,United Kingdom,8,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/alan-brown-information-statistics/
-Gijs Van Lennep,Netherlands,8,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/gijs-van-lennep-information-statistics/
 Chris Irwin,United Kingdom,10,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/chris-irwin-information-statistics/
 André Pilette,Belgium,10,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/andre-pilette-information-statistics/
-Nyck de Vries,Netherlands,11,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/nyck-de-vries/
 Ronnie Bucknum,United States,11,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/ronnie-bucknum-information-statistics/
+Nyck de Vries,Netherlands,11,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/nyck-de-vries/
 John Miles,United Kingdom,13,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/john-miles-information-statistics/
 Horace Gould,United Kingdom,14,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/horace-gould-information-statistics/
 Danny Sullivan,United States,15,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/danny-sullivan-information-statistics/
@@ -319,13 +319,13 @@ Shinji Nakano,Japan,33,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/shi
 Jules Bianchi,France,34,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/jules-bianchi-information-statistics/
 Manfred Winkelhock,Germany,48,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/manfred-winkelhock-information-statistics/
 Piercarlo Ghinzani,Italy,77,0,0,0,0,0,0,0,2,https://www.f1-fansite.com/f1-drivers/piercarlo-ghinzani-information-statistics/
-Gerino Gerini,Italy,6,0,0,0,0,0,0,0,1.5,https://www.f1-fansite.com/f1-drivers/gerino-gerini-information-statistics/
-Chico Landi,Brazil,6,0,0,0,0,0,0,0,1.5,https://www.f1-fansite.com/f1-drivers/chico-landi-information-statistics/
-Fred Agabashian,United States,8,0,0,0,0,1,0,0,1.5,https://www.f1-fansite.com/f1-drivers/fred-agabashian-information-statistics/
+Gerino Gerini,Italy,6,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/gerino-gerini-information-statistics/
+Chico Landi,Brazil,6,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/chico-landi-information-statistics/
+Fred Agabashian,United States,8,0,0,0,0,1,0,0,1,https://www.f1-fansite.com/f1-drivers/fred-agabashian-information-statistics/
 Joie Chitwood,United States,1,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/joie-chitwood-information-statistics/
 Neville Lederle,South Africa,2,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/neville-lederle-information-statistics/
-Bill Homeier,United States,3,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/bill-homeier-information-statistics/
 Eugène Chaboud,France,3,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/eugene-chaboud-information-statistics/
+Bill Homeier,United States,3,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/bill-homeier-information-statistics/
 John Taylor,United Kingdom,5,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/john-taylor-information-statistics/
 Walt Faulkner,United States,5,0,0,0,0,1,0,0,1,https://www.f1-fansite.com/f1-drivers/walt-faulkner-information-statistics/
 Julian Bailey,United Kingdom,7,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/julian-bailey-information-statistics/
@@ -334,8 +334,8 @@ Eddie Johnson,United States,9,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-driv
 Derek Bell,United Kingdom,9,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/derek-bell-information-statistics/
 Slim Borgudd,Sweden,10,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/slim-borgudd-information-statistics/
 Tony Brise,United Kingdom,10,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/tony-brise-information-statistics/
-Guy Ligier,France,12,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/guy-ligier-information-statistics/
 Giorgio Scarlatti,Italy,12,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/giorgio-scarlatti-information-statistics/
+Guy Ligier,France,12,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/guy-ligier-information-statistics/
 Ralph Firman,Ireland,14,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/ralph-firman-information-statistics/
 Justin Wilson,United Kingdom,16,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/justin-wilson-information-statistics/
 Johnny Cecotto,Venezuela,18,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/johnny-cecotto-information-statistics/
@@ -344,462 +344,462 @@ Zsolt Baumgartner,Hungary,20,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drive
 Sergey Sirotkin,Russian Federation,21,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/sergey-sirotkin-information-statistics/
 Jan Magnussen,Denmark,25,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/jan-magnussen-information-statistics/
 Luis Perez-Sala,Spain,26,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/luis-perez-sala-information-statistics/
-Pedro Lamy,Portugal,32,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/pedro-lamy-information-statistics/
 Logan Sargeant,United States,32,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/logan-sargeant/
+Pedro Lamy,Portugal,32,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/pedro-lamy-information-statistics/
 Gabriele Tarquini,Italy,38,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/gabriele-tarquini-information-statistics/
-Olivier Grouillard,France,41,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/olivier-grouillard-information-statistics/
 Alessandro Zanardi,Italy,41,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/alex-alessandro-zanardi-information-statistics/
-Lella Lombardi,Italy,12,0,0,0,0,0,0,0,0.5,https://www.f1-fansite.com/f1-drivers/lella-lombardi-information-statistics/
-Pierre-Henri Raphanel,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pierre-henri-raphanel-information-statistics/
-Joe Fry,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/joe-fry-information-statistics/
-Bill Aston,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-aston-information-statistics/
-Mike Harris,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-harris-information-statistics/
-Clemente Biondetti,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/clemente-biondetti-information-statistics/
-Kurt Kuhnke,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-kuhnke-information-statistics/
-André Milhoux,Belgium,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-milhoux-information-statistics/
-Jan Flinterman,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jan-flinterman-information-statistics/
-Tony Shelly,New Zealand,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-shelly-information-statistics/
-Helmut Niedermayr,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/helmut-niedermayr-information-statistics/
-Erwin Bauer,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/erwin-bauer-information-statistics/
-Peter Ashdown,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-ashdown-information-statistics/
-Herbert MacKay-Fraser,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/herbert-mackay-fraser-information-statistics/
-Frank Armi,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/frank-armi-information-statistics/
-John Nicholson,New Zealand,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-nicholson-information-statistics/
-Marcel Balsa,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/marcel-balsa-information-statistics/
-Oscar González,Uruguay,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/oscar-gonzalez-information-statistics/
-Jean Lucas,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jean-lucas-information-statistics/
-Alex Blignaut,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alex-blignaut-information-statistics/
-Conny Andersson,Sweden,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/conny-andersson-information-statistics/
-John Riseley-Prichard,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-riseley-prichard-information-statistics/
-Geoff Duke,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/geoff-duke-information-statistics/
-Roberto Lippi,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-lippi-information-statistics/
-Michael Bleekemolen,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/michael-bleekemolen-information-statistics/
-Harry Blanchard,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/harry-blanchard-information-statistics/
-Brian Hart,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brian-hart-information-statistics/
-Ken Miles,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ken-miles-information-statistics/
-Bobby Unser,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bobby-unser-information-statistics/
-Teddy Pilette,Belgium,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/teddy-pilette-information-statistics/
-Robert La Caze,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robert-la-caze-information-statistics/
-Graham McRae,New Zealand,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/graham-mcrae-information-statistics/
-Bayliss Levrett,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bayliss-levrett-information-statistics/
-Oswald Karch,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/oswald-karch-information-statistics/
-Ernie de Vos,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernie-de-vos-information-statistics/
-Menato Boffa,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/menato-boffa-information-statistics/
-Torsten Palm,Sweden,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/torsten-palm-information-statistics/
-Larry Crockett,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/larry-crockett-information-statistics/
-Kunimitsu Takahashi,Japan,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kunimitsu-takahashi-information-statistics/
-Ray Reed,Zimbabwe,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ray-reed-information-statistics/
-Gus Hutchison,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gus-hutchison-information-statistics/
-Miguel Angel Guerra,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/miguel-angel-guerra-information-statistics/
-Perry McCarthy,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/perry-mccarthy-information-statistics/
-André Guelfi,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-guelfi-information-statistics/
-Ernst Loof,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernst-loof-information-statistics/
+Olivier Grouillard,France,41,0,0,0,0,0,0,0,1,https://www.f1-fansite.com/f1-drivers/olivier-grouillard-information-statistics/
+Lella Lombardi,Italy,12,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lella-lombardi-information-statistics/
 Paddy Driver,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paddy-driver-information-statistics/
 Masahiro Hasemi,Japan,1,0,0,0,0,0,1,0,0,https://www.f1-fansite.com/f1-drivers/masahiro-hasemi-information-statistics/
-Volker Weidler,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/volker-weidler-information-statistics/
-José Dolhem,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jose-dolhem-information-statistics/
-Gary Hocking,Zimbabwe,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gary-hocking-information-statistics/
 Bertil Roos,Sweden,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bertil-roos-information-statistics/
-Alberto Rodriguez Larreta,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alberto-crespo-information-statistics/
-Tiff Needell,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tiff-needell-information-statistics/
-Roger Loyer,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roger-loyer-information-statistics/
-Ettore Chimeri,Venezuela,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ettore-chimeri-information-statistics/
-Paul Emery,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-emery-information-statistics/
-Adolfo Schewelm Cruz,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/adolf-brudes-information-statistics/
-Rob Schroeder,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rob-schroeder-information-statistics/
-John Cannon,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-cannon-information-statistics/
-Piero Drogo,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/piero-drogo-information-statistics/
-Johnny Mantz,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/johnny-mantz-information-statistics/
-Jay Chamberlain,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jay-chamberlain-information-statistics/
-Antonio Creus,Spain,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-simon-information-statistics/
-Syd van der Vyver,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/syd-van-der-vyver-information-statistics/
-Robin Montgomerie-Charrington,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robin-montgomerie-charrington-information-statistics/
-Gérard Larrousse,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gerard-larrousse-information-statistics/
-Danny Kladis,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/danny-kladis-information-statistics/
-François Mazet,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/francois-mazet-information-statistics/
-Art Bisch,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/art-bisch-information-statistics/
-Rodney Nuckey,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rodney-nuckey-information-statistics/
-Ernesto Prinoth,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernesto-prinoth-information-statistics/
-Bud Tingelstad,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bud-tingelstad-information-statistics/
-Andre Lotterer,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-lotterer-information-statistics/
-Robert O&#039;Brien,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robert-obrien-information-statistics/
-Rudolf Schoeller,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rudolf-schoeller-information-statistics/
-Bill Mackey,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-mackey-information-statistics/
-Piero Scotti,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/piero-scotti-information-statistics/
-Warwick Brown,Australia,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/warwick-brown-information-statistics/
-Ian Stewart,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-stewart-information-statistics/
-Günther Seiffert,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gunther-seiffert-information-statistics/
-Robin Widdows,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robin-widdows-information-statistics/
-Thomas Monarch,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/thomas-monarch-information-statistics/
-Trevor Blokdyk,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/trevor-blokdyk-information-statistics/
-Elmer George,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/elmer-george-information-statistics/
-Mike Sparken,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-sparken-information-statistics/
-Bob Said,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-said-information-statistics/
-Jerry Unser,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jerry-unser-information-statistics/
-Luiz Bueno,Brazil,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/luiz-bueno-information-statistics/
-Chuck Arnold,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chuck-arnold-information-statistics/
-Brausch Niemann,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brausch-niemann-information-statistics/
-John James,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-james-information-statistics/
-Fritz Riess,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/fritz-riess-information-statistics/
-Carl Forberg,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carl-forberg-information-statistics/
-David Clapham,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-clapham-information-statistics/
-Wayne Weiler,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/wayne-weiler-information-statistics/
-Leo Kinnunen,Finland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/leo-kinnunen-information-statistics/
-Don Edmunds,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/don-edmunds-information-statistics/
-Theo Fitzau,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/theo-fitzau-information-statistics/
-Jonathan Williams,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jonathan-williams-information-statistics/
-Vic Wilson,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/vic-wilson-information-statistics/
-John Cordts,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/information-statistics-2/
-Roland Ratzenberger,Austria,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roland-ratzenberger-information-statistics/
-Walt Ader,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/walt-ader-information-statistics/
-John Rhodes,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/information-statistics/
-Myron Fohr,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/myron-fohr-information-statistics/
-George Constantine,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-constantine-information-statistics/
-Guy Tunmer,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/guy-tunmer-information-statistics/
-John Barber,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-barber-information-statistics/
-Hans Klenk,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hans-klenk-information-statistics/
-Basil van Rooyen,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/basil-van-rooyen-information-statistics/
-Josef Peters,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/josef-peters-information-statistics/
-Philip Fotheringham-Parker,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/philip-fotheringham-parker-information-statistics/
-Georges Grignard,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/georges-grignard-information-statistics/
-Don Beauman,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/don-beauman-information-statistics/
-Archie Scott Brown,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/archie-scott-brown-information-statistics/
-François Picard,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/francois-picard-information-statistics/
-Aldo Gordini,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/aldo-gordini-information-statistics/
-Peter Ryan,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-ryan-information-statistics/
-Dries van der Lof,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dries-van-der-lof-information-statistics/
-Marco Apicella,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/marco-apicella-information-statistics/
-Kurt Ahrens,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-ahrens-information-statistics/
-Jean-Louis Schlesser,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jean-louis-schlesser-information-statistics/
-Heini Walter,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/heini-walter-information-statistics/
-Jack Aitken,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jack-aitken/
-Mike Taylor,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-taylor-information-statistics/
-Peter Broeker,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-broeker-information-statistics/
-Albert Scherrer,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/albert-scherrer-information-statistics/
-Xavier Perrot,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/xavier-perrot-information-statistics/
 Piero Monteverdi,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/piero-monteverdi-information-statistics/
 Roberto Bonomi,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-bonomi-information-statistics/
 Desmond Titterington,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/desmond-titterington-information-statistics/
 Nello Pagani,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/nello-pagani-information-statistics/
 Fred Gamble,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/fred-gamble-information-statistics/
 Damien Magee,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/damien-magee-information-statistics/
-Rob Slotemaker,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rob-slotemaker-information-statistics/
 Markus Winkelhock,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/markus-winkelhock-information-statistics/
-Jim Rigsby,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jim-rigsby-information-statistics/
 Giorgio Bassi,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giorgio-bassi-information-statistics/
-Peter Westbury,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-westbury-information-statistics/
+Paul England,Australia,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-england-information-statistics/
+Jo Vonlanthen,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jo-vonlanthen-information-statistics/
 Adolf Brudes,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/adolf-brudes-information-statistics/
 Leslie Johnson,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/leslie-johnson-information-statistics/
-Paul England,Australia,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-england-information-statistics/
-Bruce Johnstone,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bruce-johnstone-information-statistics/
-Jo Vonlanthen,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jo-vonlanthen-information-statistics/
-Timmy Mayer,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/timmy-mayer-information-statistics/
 Enrico Bertaggia,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/enrico-bertaggia-information-statistics/
+Ernesto Prinoth,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernesto-prinoth-information-statistics/
 Jesús Iglesias,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jesus-iglesias-information-statistics/
-Stéphane Sarrazin,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/stephane-sarrazin-information-statistics/
 Juan Jover,Spain,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/juan-jover-information-statistics/
-Kurt Adolff,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-adolff-information-statistics/
-Leslie Thorne,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/leslie-thorne-information-statistics/
-Jim Hurtubise,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jim-hurtubise-information-statistics/
+Timmy Mayer,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/timmy-mayer-information-statistics/
 Dieter Quester,Austria,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dieter-quester-information-statistics/
 Ben Pon,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ben-pon-information-statistics/
 Mike MacDowel,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-macdowel-information-statistics/
+Rudolf Schoeller,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rudolf-schoeller-information-statistics/
+Kurt Adolff,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-adolff-information-statistics/
+Leslie Thorne,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/leslie-thorne-information-statistics/
 Max Jean,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/max-jean-information-statistics/
 Jimmy Stewart,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jimmy-stewart-information-statistics/
+Günther Seiffert,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gunther-seiffert-information-statistics/
+Thomas Monarch,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/thomas-monarch-information-statistics/
+Jack Lewis,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jack-lewis-information-statistics/
 Robert Drake,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robert-drake-information-statistics/
 Charles Pozzi,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/charles-pozzi-information-statistics/
-Jack Lewis,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jack-lewis-information-statistics/
-Massimo Natili,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/massimo-natili-information-statistics/
-Dave Morgan,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dave-morgan-information-statistics/
+Brausch Niemann,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brausch-niemann-information-statistics/
+John James,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-james-information-statistics/
 Arthur Owen,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/arthur-owen-information-statistics/
 Christian Goethals,Belgium,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/christian-goethals-information-statistics/
-Tom Bridger,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tom-bridger-information-statistics/
+Mike Sparken,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-sparken-information-statistics/
+Jerry Unser,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jerry-unser-information-statistics/
 Luki Botha,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/luki-botha-information-statistics/
-Len Duncan,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/len-duncan-information-statistics/
 Chris Craft,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chris-craft-information-statistics/
 Graham Whitehead,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/graham-whitehead-information-statistics/
 Bill Whitehouse,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-whitehouse-information-statistics/
+Wayne Weiler,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/wayne-weiler-information-statistics/
+Pierre-Henri Raphanel,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pierre-henri-raphanel-information-statistics/
+Joe Fry,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/joe-fry-information-statistics/
+John Cordts,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/information-statistics-2/
+Roland Ratzenberger,Austria,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roland-ratzenberger-information-statistics/
+Guy Tunmer,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/guy-tunmer-information-statistics/
+John Barber,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-barber-information-statistics/
+Kurt Kuhnke,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-kuhnke-information-statistics/
+Jan Flinterman,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jan-flinterman-information-statistics/
+Tony Shelly,New Zealand,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-shelly-information-statistics/
+Mike Harris,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-harris-information-statistics/
+Clemente Biondetti,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/clemente-biondetti-information-statistics/
+Helmut Niedermayr,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/helmut-niedermayr-information-statistics/
+Peter Ashdown,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-ashdown-information-statistics/
+Herbert MacKay-Fraser,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/herbert-mackay-fraser-information-statistics/
+Frank Armi,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/frank-armi-information-statistics/
+John Nicholson,New Zealand,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-nicholson-information-statistics/
+François Picard,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/francois-picard-information-statistics/
+Don Beauman,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/don-beauman-information-statistics/
+Mike Taylor,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-taylor-information-statistics/
+Peter Broeker,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-broeker-information-statistics/
+Marco Apicella,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/marco-apicella-information-statistics/
+John Riseley-Prichard,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-riseley-prichard-information-statistics/
+Geoff Duke,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/geoff-duke-information-statistics/
+Michael Bleekemolen,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/michael-bleekemolen-information-statistics/
+Albert Scherrer,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/albert-scherrer-information-statistics/
+Harry Blanchard,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/harry-blanchard-information-statistics/
+Bobby Unser,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bobby-unser-information-statistics/
+Teddy Pilette,Belgium,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/teddy-pilette-information-statistics/
+Robert La Caze,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robert-la-caze-information-statistics/
+Graham McRae,New Zealand,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/graham-mcrae-information-statistics/
+Xavier Perrot,Switzerland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/xavier-perrot-information-statistics/
+Jim Rigsby,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jim-rigsby-information-statistics/
+Ernie de Vos,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernie-de-vos-information-statistics/
+Menato Boffa,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/menato-boffa-information-statistics/
+Torsten Palm,Sweden,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/torsten-palm-information-statistics/
+Larry Crockett,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/larry-crockett-information-statistics/
+Rob Slotemaker,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rob-slotemaker-information-statistics/
+Ray Reed,Zimbabwe,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ray-reed-information-statistics/
+Gus Hutchison,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gus-hutchison-information-statistics/
+Bruce Johnstone,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bruce-johnstone-information-statistics/
+Peter Westbury,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-westbury-information-statistics/
+André Guelfi,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-guelfi-information-statistics/
+Kunimitsu Takahashi,Japan,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kunimitsu-takahashi-information-statistics/
+Stéphane Sarrazin,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/stephane-sarrazin-information-statistics/
+Volker Weidler,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/volker-weidler-information-statistics/
+Ernst Loof,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernst-loof-information-statistics/
+Alberto Rodriguez Larreta,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alberto-crespo-information-statistics/
+Tiff Needell,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tiff-needell-information-statistics/
+Roger Loyer,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roger-loyer-information-statistics/
+Ettore Chimeri,Venezuela,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ettore-chimeri-information-statistics/
+José Dolhem,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jose-dolhem-information-statistics/
+Jim Hurtubise,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jim-hurtubise-information-statistics/
+Gary Hocking,Zimbabwe,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gary-hocking-information-statistics/
+John Cannon,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-cannon-information-statistics/
+Piero Drogo,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/piero-drogo-information-statistics/
+Johnny Mantz,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/johnny-mantz-information-statistics/
+Jay Chamberlain,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jay-chamberlain-information-statistics/
+Paul Emery,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-emery-information-statistics/
+Adolfo Schewelm Cruz,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/adolf-brudes-information-statistics/
+Rob Schroeder,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rob-schroeder-information-statistics/
+Danny Kladis,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/danny-kladis-information-statistics/
+Massimo Natili,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/massimo-natili-information-statistics/
+François Mazet,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/francois-mazet-information-statistics/
+Antonio Creus,Spain,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-simon-information-statistics/
+Syd van der Vyver,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/syd-van-der-vyver-information-statistics/
+Robin Montgomerie-Charrington,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robin-montgomerie-charrington-information-statistics/
+Gérard Larrousse,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gerard-larrousse-information-statistics/
+Bud Tingelstad,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bud-tingelstad-information-statistics/
+Art Bisch,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/art-bisch-information-statistics/
+Dave Morgan,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dave-morgan-information-statistics/
+Rodney Nuckey,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rodney-nuckey-information-statistics/
+Bill Mackey,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-mackey-information-statistics/
+Piero Scotti,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/piero-scotti-information-statistics/
 Bill Cantrell,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-cantrell-information-statistics/
-Sam Posey,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/sam-posey-information-statistics/
+Tom Bridger,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tom-bridger-information-statistics/
+Andre Lotterer,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-lotterer-information-statistics/
+Robert O&#039;Brien,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robert-obrien-information-statistics/
+Len Duncan,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/len-duncan-information-statistics/
+Warwick Brown,Australia,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/warwick-brown-information-statistics/
+Bill Aston,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-aston-information-statistics/
+Ian Stewart,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-stewart-information-statistics/
+Robin Widdows,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robin-widdows-information-statistics/
+André Milhoux,Belgium,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-milhoux-information-statistics/
+Trevor Blokdyk,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/trevor-blokdyk-information-statistics/
+Erwin Bauer,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/erwin-bauer-information-statistics/
+Chuck Arnold,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chuck-arnold-information-statistics/
+Fritz Riess,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/fritz-riess-information-statistics/
+Marcel Balsa,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/marcel-balsa-information-statistics/
+Carl Forberg,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carl-forberg-information-statistics/
+David Clapham,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-clapham-information-statistics/
+Elmer George,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/elmer-george-information-statistics/
+Bob Said,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-said-information-statistics/
+Luiz Bueno,Brazil,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/luiz-bueno-information-statistics/
+Leo Kinnunen,Finland,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/leo-kinnunen-information-statistics/
+Alex Blignaut,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alex-blignaut-information-statistics/
+Don Edmunds,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/don-edmunds-information-statistics/
+Conny Andersson,Sweden,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/conny-andersson-information-statistics/
+Oscar González,Uruguay,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/oscar-gonzalez-information-statistics/
+Jean Lucas,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jean-lucas-information-statistics/
+Jonathan Williams,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jonathan-williams-information-statistics/
+Roberto Lippi,Italy,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-lippi-information-statistics/
+Vic Wilson,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/vic-wilson-information-statistics/
+Brian Hart,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brian-hart-information-statistics/
+Walt Ader,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/walt-ader-information-statistics/
+John Rhodes,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/information-statistics/
+Theo Fitzau,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/theo-fitzau-information-statistics/
+George Constantine,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-constantine-information-statistics/
+Hans Klenk,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hans-klenk-information-statistics/
+Basil van Rooyen,South Africa,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/basil-van-rooyen-information-statistics/
+Josef Peters,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/josef-peters-information-statistics/
+Philip Fotheringham-Parker,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/philip-fotheringham-parker-information-statistics/
+Georges Grignard,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/georges-grignard-information-statistics/
+Ken Miles,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ken-miles-information-statistics/
+Myron Fohr,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/myron-fohr-information-statistics/
+Archie Scott Brown,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/archie-scott-brown-information-statistics/
+Bayliss Levrett,United States,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bayliss-levrett-information-statistics/
+Oswald Karch,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/oswald-karch-information-statistics/
+Jean-Louis Schlesser,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jean-louis-schlesser-information-statistics/
+Heini Walter,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/heini-walter-information-statistics/
+Miguel Angel Guerra,Argentina,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/miguel-angel-guerra-information-statistics/
+Jack Aitken,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jack-aitken/
+Perry McCarthy,United Kingdom,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/perry-mccarthy-information-statistics/
+Aldo Gordini,France,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/aldo-gordini-information-statistics/
+Peter Ryan,Canada,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-ryan-information-statistics/
+Dries van der Lof,Netherlands,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dries-van-der-lof-information-statistics/
+Kurt Ahrens,Germany,1,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-ahrens-information-statistics/
+Alfonso Thiele,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alfonso-thiele-information-statistics/
+Lloyd Ruby,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lloyd-ruby-information-statistics/
+Georges Berger,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/georges-berger-information-statistics/
+Chris Lawrence,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chris-lawrence-information-statistics/
+Emilio de Villota,Spain,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/emilio-de-villota-information-statistics/
+Renato Pirocchi,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/renato-pirocchi-information-statistics/
+Tommy Byrne,Ireland,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tommy-byrne-information-statistics/
+Carl Scarborough,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carl-scarborough-beaufort-information-statistics/
+Alberto Uria,Uruguay,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alberto-uria-information-statistics/
+Philippe Adams,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/philippe-adams-information-statistics/
+Keith Andrews,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/keith-andrews-information-statistics/
+Lamberto Leoni,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lamberto-leoni-information-statistics/
+Franck Lagorce,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franck-lagorce-information-statistics/
+Roger Williamson,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roger-williamson-information-statistics/
+Leslie Marr,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/leslie-marr-information-statistics/
+Max de Terra,Switzerland,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/max-de-terra-information-statistics/
+Mike Thackwell,New Zealand,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-thackwell-information-statistics/
+Eppie Wietzes,Canada,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eppie-wietzes-information-statistics/
+Alessandro de Tomaso,Argentina,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alessandro-de-tomaso-information-statistics/
+Günther Bechem,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gunther-bechem-information-statistics/
+David Hampshire,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-hampshire-information-statistics/
+Red Amick,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/red-amick-information-statistics/
+Roger Penske,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roger-penske-information-statistics/
+Arthur Legat,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/arthur-legat-information-statistics/
+Billy Garrett,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/billy-garrett-information-statistics/
+Jorge Daponte,Argentina,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jorge-daponte-information-statistics/
 Pietro Fittipaldi,Brazil,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pietro-fittipaldi/
 Jud Larson,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jud-larson-information-statistics/
-Joe James,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/joe-james-information-statistics/
 Kazuyoshi Hoshino,Japan,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kazuyoshi-hoshino-information-statistics/
-Giacomo &quot;Geki&quot; Russo,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giacomo-geki-russo-information-statistics/
-Mack Hellings,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mack-hellings-information-statistics/
+Sam Posey,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/sam-posey-information-statistics/
 George Abecassis,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-abecassis-information-statistics/
+Franco Comotti,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franco-comotti-information-statistics/
+Giacomo &quot;Geki&quot; Russo,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giacomo-geki-russo-information-statistics/
 Toni Ulmen,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/toni-ulmen-information-statistics/
 Jimmy Jackson,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jimmy-jackson-information-statistics/
-Al Pease,Canada,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/al-pease-information-statistics/
 Heinz Schiller,Switzerland,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/heinz-schiller-information-statistics/
 Helmuth Koinigg,Austria,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/helmuth-koinigg-information-statistics/
 Joe Kelly,Ireland,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/joe-kelly-information-statistics/
+Eugène Martin,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eugene-martin-information-statistics/
+Al Pease,Canada,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/al-pease-information-statistics/
 Dick Gibson,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dick-gibson-information-statistics/
 Tim Parnell,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tim-parnell-information-statistics/
-Mike Fisher,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-fisher-information-statistics/
-Charles de Tornaco,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/charles-de-tornaco-information-statistics/
-Ernst Klodwig,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernst-klodwig-information-statistics/
+George Fonder,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-fonder-information-statistics/
 Roger Laurent,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roger-laurent-information-statistics/
 John Fitch,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-fitch-information-statistics/
-Walt Brown,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/walt-brown-information-statistics/
-Ken Downing,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ken-downing-information-statistics/
+Mike Fisher,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-fisher-information-statistics/
 Gene Force,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gene-force-information-statistics/
 Jo Schlesser,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jo-schlesser-information-statistics/
+Carlo Abate,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carlo-abate-information-statistics/
 Geoff Crossley,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/geoff-crossley-information-statistics/
-Alfonso Thiele,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alfonso-thiele-information-statistics/
+Henri Louveau,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/henri-louveau-information-statistics/
+Hubert Hahne,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hubert-hahne-information-statistics/
+Kurt Ahrens Jr.,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-ahrens-jr-information-statistics/
 Dempsey Wilson,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dempsey-wilson-information-statistics/
-Renato Pirocchi,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/renato-pirocchi-information-statistics/
-Tommy Byrne,Ireland,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tommy-byrne-information-statistics/
 Lance Reventlow,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lance-reventlow-information-statistics/
+Willi Heeks,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/willi-heeks-information-statistics/
 Ernie McCoy,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernie-mccoy-information-statistics/
+Tom Belsø,Denmark,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tom-belso-information-statistics/
 Doug Serrurier,South Africa,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/doug-serrurier-information-statistics/
 David Piper,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-piper-information-statistics/
 Rudolf Krause,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rudolf-krause-information-statistics/
 Les Leston,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/les-leston-information-statistics/
 Noritake Takahara,Japan,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/noritake-takahara-information-statistics/
 Bobby Grim,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bobby-grim-information-statistics/
-Lamberto Leoni,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lamberto-leoni-information-statistics/
+Jackie Holmes,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jackie-holmes-information-statistics/
 David Prophet,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-prophet-information-statistics/
 Tony Crook,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-crook-information-statistics/
 Chet Miller,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chet-miller-information-statistics/
-Mike Thackwell,New Zealand,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-thackwell-information-statistics/
-Jim McWithey,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jim-mcwithey-information-statistics/
-Eppie Wietzes,Canada,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eppie-wietzes-information-statistics/
 Franco Forini,Switzerland,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franco-forini-information-statistics/
 Toshio Suzuki,Japan,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/toshio-suzuki-information-statistics/
-Max de Terra,Switzerland,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/max-de-terra-information-statistics/
+Joe James,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/joe-james-information-statistics/
 Bobby Rahal,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bobby-rahal-information-statistics/
 Brian Shawe Taylor,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brian-shawe-taylo-information-statistics/
-Roger Penske,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roger-penske-information-statistics/
-Arthur Legat,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/arthur-legat-information-statistics/
+Jim McWithey,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jim-mcwithey-information-statistics/
+Mack Hellings,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mack-hellings-information-statistics/
 Alan Rees,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alan-rees-information-statistics/
 Ernie Pieterse,South Africa,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernie-pieterse-information-statistics/
-Jorge Daponte,Argentina,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jorge-daponte-information-statistics/
-Franco Comotti,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franco-comotti-information-statistics/
+Ernst Klodwig,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ernst-klodwig-information-statistics/
+Charles de Tornaco,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/charles-de-tornaco-information-statistics/
 Gaetano Starrabba,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gaetano-starrabba-information-statistics/
 Jim Crawford,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jim-crawford-information-statistics/
-Eugène Martin,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eugene-martin-information-statistics/
+Walt Brown,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/walt-brown-information-statistics/
+Ken Downing,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ken-downing-information-statistics/
 Pablo Birger,Argentina,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pablo-birger-information-statistics/
 Patrick Gaillard,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/patrick-gaillard-information-statistics/
-Lloyd Ruby,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lloyd-ruby-information-statistics/
-Georges Berger,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/georges-berger-information-statistics/
-Chris Lawrence,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chris-lawrence-information-statistics/
-George Fonder,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-fonder-information-statistics/
-Emilio de Villota,Spain,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/emilio-de-villota-information-statistics/
-Alberto Uria,Uruguay,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alberto-uria-information-statistics/
-Carl Scarborough,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carl-scarborough-beaufort-information-statistics/
-Carlo Abate,Italy,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carlo-abate-information-statistics/
-Henri Louveau,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/henri-louveau-information-statistics/
-Philippe Adams,Belgium,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/philippe-adams-information-statistics/
-Keith Andrews,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/keith-andrews-information-statistics/
-Kurt Ahrens Jr.,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kurt-ahrens-jr-information-statistics/
-Franck Lagorce,France,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franck-lagorce-information-statistics/
-Roger Williamson,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roger-williamson-information-statistics/
-Hubert Hahne,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hubert-hahne-information-statistics/
-Leslie Marr,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/leslie-marr-information-statistics/
-Willi Heeks,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/willi-heeks-information-statistics/
-Günther Bechem,Germany,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gunther-bechem-information-statistics/
-Tom Belsø,Denmark,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tom-belso-information-statistics/
-Alessandro de Tomaso,Argentina,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alessandro-de-tomaso-information-statistics/
-Red Amick,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/red-amick-information-statistics/
-Jackie Holmes,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jackie-holmes-information-statistics/
-David Hampshire,United Kingdom,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-hampshire-information-statistics/
-Billy Garrett,United States,2,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/billy-garrett-information-statistics/
-Johnnie Tolan,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/johnnie-tolan-information-statistics/
-Paul Hawkins,Australia,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-hawkins-information-statistics/
+Shorty Templeman,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/shorty-templeman-information-statistics/
+Tomáš Enge,Czech Republic,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tomas-enge-information-statistics/
+Richard Robarts,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/richard-robarts-information-statistics/
+Jackie Pretorius,South Africa,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jackie-pretorius-information-statistics/
+Ingo Hoffmann,Brazil,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ingo-hoffmann-information-statistics/
+Theo Helfrich,Germany,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/theo-helfrich-information-statistics/
+Roelof Wunderink,Netherlands,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roelof-wunderink-information-statistics/
+Fred Wacker,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/fred-wacker-information-statistics/
+Guy Mairesse,France,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/guy-mairesse-information-statistics/
+Kenny Acheson,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kenny-acheson-information-statistics/
+Len Sutton,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/len-sutton-information-statistics/
+Toni Branca,Switzerland,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/toni-branca-information-statistics/
+Cuth Harrison,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/cuth-harrison-information-statistics/
+Bill Brack,Canada,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-brack-information-statistics/
+Eddie Keizan,South Africa,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eddie-keizan-information-statistics/
+Bob Scott,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-scott-information-statistics/
+Ian Raby,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-raby-information-statistics/
+Cal Niday,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/cal-niday-information-statistics/
+Beppe Gabbiani,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/beppe-gabbiani-information-statistics/
 Bill Cheesbourg,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-cheesbourg-information-statistics/
-Duke Nalon,United States,3,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/duke-nalon-information-statistics/
+Paul Hawkins,Australia,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-hawkins-information-statistics/
 Bill Schindler,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-schindler-information-statistics/
+Tony Gaze,Australia,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-gaze-information-statistics/
 Ray Crawford,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ray-crawford-information-statistics/
 Boy Hayje,Netherlands,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/boy-hayje-information-statistics/
 Fritz d&#039;Orey,Brazil,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/fritz-dorey-information-statistics/
-Piero Carini,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/piero-carini-information-statistics/
 Paul Pietsch,Germany,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-pietsch-information-statistics/
-Marshall Teague,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/marshall-teague-information-statistics/
+Piero Carini,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/piero-carini-information-statistics/
 Hans Von Stuck,Germany,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hans-von-stuck-information-statistics/
-Jackie Pretorius,South Africa,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jackie-pretorius-information-statistics/
-Ingo Hoffmann,Brazil,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ingo-hoffmann-information-statistics/
+Roberto Bussinello,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-bussinello-information-statistics/
 Mike Magill,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-magill-information-statistics/
 George Connor,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-connor-information-statistics/
 Riccardo Paletti,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/riccardo-paletti-information-statistics/
 Nasif Estéfano,Argentina,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/nasif-estefanoi-information-statistics/
-Guy Mairesse,France,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/guy-mairesse-information-statistics/
+Andrea Chiesa,Switzerland,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andrea-chiesa-information-statistics/
 Eitel Cantoni,Uruguay,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eitel-cantoni-information-statistics/
 Ottorino Volonterio,Switzerland,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ottorino-volonterio-information-statistics/
-Cliff Griffith,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/cliff-griffith-information-statistics/
-Bill Brack,Canada,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bill-brack-information-statistics/
 Anthony Joseph Foyt,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/a-j-foyt-information-statistics/
+Cliff Griffith,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/cliff-griffith-information-statistics/
+Johnnie Tolan,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/johnnie-tolan-information-statistics/
 Chuck Daigh,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chuck-daigh-information-statistics/
 Colin Davis,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/colin-davis-information-statistics/
 Loris Kessel,Switzerland,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/loris-kessel-information-statistics/
-Cal Niday,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/cal-niday-information-statistics/
-Beppe Gabbiani,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/beppe-gabbiani-information-statistics/
-Henry Banks,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/henry-banks-information-statistics/
 Tony Rolt,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-rolt-information-statistics/
 Johnny McDowell,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/johnny-mcdowell-information-statistics/
+Duke Nalon,United States,3,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/duke-nalon-information-statistics/
 Jean-Denis Délétraz,Switzerland,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jean-denis-deletraz-information-statistics/
-Alessandro Pesenti-Rossi,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alessandro-de-tomaso-information-statistics/
+Henry Banks,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/henry-banks-information-statistics/
 Maria Teresa de Filippis,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/maria-teresa-de-filippis-information-statistics/
+Alessandro Pesenti-Rossi,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alessandro-de-tomaso-information-statistics/
 Mike Wilds,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-wilds-information-statistics/
 Hideki Noda,Japan,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hideki-noda-information-statistics/
-Shorty Templeman,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/shorty-templeman-information-statistics/
-Tomáš Enge,Czech Republic,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tomas-enge-information-statistics/
-Tony Gaze,Australia,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-gaze-information-statistics/
-Richard Robarts,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/richard-robarts-information-statistics/
-Theo Helfrich,Germany,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/theo-helfrich-information-statistics/
-Roelof Wunderink,Netherlands,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roelof-wunderink-information-statistics/
-Fred Wacker,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/fred-wacker-information-statistics/
-Roberto Bussinello,Italy,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-bussinello-information-statistics/
-Kenny Acheson,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kenny-acheson-information-statistics/
-Len Sutton,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/len-sutton-information-statistics/
-Toni Branca,Switzerland,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/toni-branca-information-statistics/
-Eddie Keizan,South Africa,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eddie-keizan-information-statistics/
-Cuth Harrison,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/cuth-harrison-information-statistics/
-Ian Raby,United Kingdom,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-raby-information-statistics/
-Andrea Chiesa,Switzerland,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andrea-chiesa-information-statistics/
-Bob Scott,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-scott-information-statistics/
+Marshall Teague,United States,3,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/marshall-teague-information-statistics/
+Norberto Fontana,Argentina,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/norberto-fontana-information-statistics/
+Michael May,Switzerland,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/michael-may-information-statistics/
+Jerry Hoyt,United States,4,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/jerry-hoyt-information-statistics/
+David Murray,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-murray-information-statistics/
+Gerry Ashmore,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gerry-ashmore-information-statistics/
+Peter de Klerk,South Africa,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-de-klerk-information-statistics/
+Danny Ongais,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/danny-ongais-information-statistics/
 Keith Greene,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/keith-greene-information-statistics/
+Mario de Araujo Cabral,Portugal,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mario-de-araujo-cabral-information-statistics/
+Eddie Sachs,United States,4,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/eddie-sachs-information-statistics/
 Nino Vaccarella,Italy,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/nino-vaccarella-information-statistics/
-Gino Bianco,Brazil,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gino-bianco-information-statistics/
+Bernard Collomb,France,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bernard-collomb-information-statistics/
 Chris Bristow,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chris-bristow-information-statistics/
+Peter Walker,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-walker-information-statistics/
+Gino Munaron,Italy,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gino-munaron-information-statistics/
+Jack Turner,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jack-turner-information-statistics/
 Yuji Ide,Japan,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/yuji-ide-information-statistics/
 Chuck Weyant,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chuck-weyant-information-statistics/
 Spider Webb,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/spider-webb-information-statistics/
 Eddie Russo,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eddie-russo-information-statistics/
 Duke Dinsmore,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/duke-dinsmore-information-statistics/
-Danny Ongais,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/danny-ongais-information-statistics/
-Mario de Araujo Cabral,Portugal,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mario-de-araujo-cabral-information-statistics/
-Eddie Sachs,United States,4,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/eddie-sachs-information-statistics/
-Norberto Fontana,Argentina,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/norberto-fontana-information-statistics/
-Michael May,Switzerland,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/michael-may-information-statistics/
-Bernard Collomb,France,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bernard-collomb-information-statistics/
-Peter Walker,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-walker-information-statistics/
-Gino Munaron,Italy,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gino-munaron-information-statistics/
-Jerry Hoyt,United States,4,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/jerry-hoyt-information-statistics/
-Jack Turner,United States,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jack-turner-information-statistics/
-David Murray,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-murray-information-statistics/
-Gerry Ashmore,United Kingdom,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gerry-ashmore-information-statistics/
-Peter de Klerk,South Africa,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-de-klerk-information-statistics/
-Chuck Stevenson,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chuck-stevenson/
-Jacques Pollet,France,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jacques-pollet-information-statistics/
-Geoff Lees,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/geoff-lees-information-statistics/
-Ivor Bueb,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ivor-bueb-information-statistics/
-John Campbell-Jones,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-campbell-jones-information-statistics/
-Al Keller,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/al-keller-information-statistics/
-Eric Brandon,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eric-brandon-information-statistics/
-Ian Ashley,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-ashley-information-statistics/
-Bob Christie,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-christie-information-statistics/
-Bob Veith,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-veith-information-statistics/
-Luigi Piotti,Italy,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/luigi-piotti-information-statistics/
-Pat O&#039;Connor,United States,5,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/pat-oconnor-information-statistics/
-Duncan Hamilton,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/duncan-hamilton-information-statistics/
-Skip Barber,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/skip-barber-information-statistics/
-Franco Rol,Italy,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franco-rol-information-statistics/
-Nicolas Kiesa,Denmark,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/nicolas-kiesa-information-statistics/
-Peter Hirt,Switzerland,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-hirt-information-statistics/
+Gino Bianco,Brazil,4,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gino-bianco-information-statistics/
 Alexander Rossi,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alexander-rossi-information-statistics/
 Al Herman,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/al-herman-information-statistics/
 Ed Elisian,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ed-elisian-information-statistics/https://www.f1-fansite.com/f1-drivers/ed-elisian-information-statistics/https://www.f1-fansite.com/f1-drivers/ed-elisian-information-statistics/
 Clemar Bucci,Argentina,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/clemar-bucci-information-statistics/
-Emanuele Naspetti,Italy,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/emanuele-naspetti-information-statistics/
-Sam Tingle,Zimbabwe,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/sam-tingle-information-statistics/
-Alex Soler-Roig,Spain,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alex-soler-roig-information-statistics/
-Jimmy Daywalt,United States,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jimmy-daywalt-information-statistics/
-Eric van de Poele,Belgium,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eric-van-de-poele-information-statistics/
-Domenico Schiattarella,Italy,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/domenico-schiattarella-information-statistics/
+Duncan Hamilton,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/duncan-hamilton-information-statistics/
+Chuck Stevenson,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/chuck-stevenson/
+Jacques Pollet,France,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jacques-pollet-information-statistics/
+Ivor Bueb,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ivor-bueb-information-statistics/
+Al Keller,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/al-keller-information-statistics/
+John Campbell-Jones,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/john-campbell-jones-information-statistics/
+Eric Brandon,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eric-brandon-information-statistics/
+Ian Ashley,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-ashley-information-statistics/
+Bob Christie,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-christie-information-statistics/
+Bob Veith,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-veith-information-statistics/
+Pat O&#039;Connor,United States,5,0,0,0,0,1,0,0,0,https://www.f1-fansite.com/f1-drivers/pat-oconnor-information-statistics/
+Luigi Piotti,Italy,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/luigi-piotti-information-statistics/
+Skip Barber,United States,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/skip-barber-information-statistics/
+Geoff Lees,United Kingdom,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/geoff-lees-information-statistics/
+Franco Rol,Italy,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franco-rol-information-statistics/
+Nicolas Kiesa,Denmark,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/nicolas-kiesa-information-statistics/
+Peter Hirt,Switzerland,5,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/peter-hirt-information-statistics/
 Edgar Barth,Germany,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/edgar-barth-information-statistics/
 Jimmy Reece,United States,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jimmy-reece-information-statistics/
-Hap Sharp,United States,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hap-sharp-information-statistics/
+Eric van de Poele,Belgium,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/eric-van-de-poele-information-statistics/
 Pierre Levegh,France,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pierre-levegh-information-statistics/
+Alex Soler-Roig,Spain,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alex-soler-roig-information-statistics/
+Hap Sharp,United States,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hap-sharp-information-statistics/
+Jimmy Daywalt,United States,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jimmy-daywalt-information-statistics/
+Emanuele Naspetti,Italy,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/emanuele-naspetti-information-statistics/
+Domenico Schiattarella,Italy,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/domenico-schiattarella-information-statistics/
+Sam Tingle,Zimbabwe,6,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/sam-tingle-information-statistics/
+Bob Gerard,United Kingdom,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-gerard-information-statistics/
+Gregor Foitek,Switzerland,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gregor-foitek-information-statistics/
+Pete Lovely,United States,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pete-lovely-information-statistics/
+Franck Montagny,France,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franck-montagny-information-statistics/
+Massimiliano Papis,Italy,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/massimiliano-papis-information-statistics/
 Kenneth McAlpine,United Kingdom,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/kenneth-mcalpine-information-statistics/
 Michel Leclère,France,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/michel-leclere-information-statistics/
-Gregor Foitek,Switzerland,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gregor-foitek-information-statistics/
-Jacques Swaters,Belgium,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jacques-swaters-information-statistics/
+Paul Belmondo,France,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-belmondo-information-statistics/
 Giovanni Lavaggi,Italy,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giovanni-lavaggi-information-statistics/
-Franck Montagny,France,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/franck-montagny-information-statistics/
+Jacques Swaters,Belgium,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jacques-swaters-information-statistics/
 Alan Stacey,United Kingdom,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alan-stacey-information-statistics/
 David Hobbs,United Kingdom,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-hobbs-information-statistics/
-Bob Gerard,United Kingdom,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-gerard-information-statistics/
-Pete Lovely,United States,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pete-lovely-information-statistics/
-Paul Belmondo,France,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paul-belmondo-information-statistics/
-Massimiliano Papis,Italy,7,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/massimiliano-papis-information-statistics/
-David Purley,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-purley-information-statistics/
-Carroll Shelby,United States,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carroll-shelby-information-statistics/
-Brian Naylor,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brian-naylor-information-statistics/
-Bruce Halford,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bruce-halford-brown-information-statistics/
-Tony Marsh,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-marsh-information-statistics/
-Moisés Solana,Mexico,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/moises-solana-information-statistics/
 Jo Gartner,Austria,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jo-gartner-information-statistics/
 Gene Hartley,United States,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gene-hartley-information-statistics/
 Oscar Larrauri,Argentina,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/oscar-larrauri-information-statistics/
+Brian Naylor,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brian-naylor-information-statistics/
+Bruce Halford,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bruce-halford-brown-information-statistics/
 Frank Gardner,Australia,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/frank-gardner-information-statistics/
-Tony Settember,United States,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-settember-information-statistics/
-Vern Schuppan,Australia,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/vern-schuppan-information-statistics/
-Helmut Marko,Austria,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/helmut-marko-information-statistics/
-Siegfried Stohr,Italy,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/siegfried-stohr-information-statistics/
-Bernd Schneider,Germany,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bernd-schneider-information-statistics/
-Paolo Barilla,Italy,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paolo-barilla-information-statistics/
+David Purley,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-purley-information-statistics/
+Tony Marsh,United Kingdom,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-marsh-information-statistics/
+Carroll Shelby,United States,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/carroll-shelby-information-statistics/
+Moisés Solana,Mexico,8,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/moises-solana-information-statistics/
 Jean-Marc Gounon,France,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jean-marc-gounon-information-statistics/
+Siegfried Stohr,Italy,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/siegfried-stohr-information-statistics/
+Tony Settember,United States,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tony-settember-information-statistics/
+Bernd Schneider,Germany,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bernd-schneider-information-statistics/
+Helmut Marko,Austria,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/helmut-marko-information-statistics/
+Vern Schuppan,Australia,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/vern-schuppan-information-statistics/
 Allen Berg,Canada,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/allen-berg-information-statistics/
-Rikky von Opel,Liechtenstein,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rikky-von-opel-information-statistics/
+Paolo Barilla,Italy,9,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/paolo-barilla-information-statistics/
 Wolfgang Seidel,Germany,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/wolfgang-seidel-information-statistics/
-Olivier Beretta,Monaco,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/olivier-beretta-information-statistics/
 Ricardo Zunino,Argentina,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ricardo-zunino-information-statistics/
-Patrick Nève,Belgium,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/patrick-neve-information-statistics/
 Alex Ribeiro,Brazil,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alex-ribeiro-information-statistics/
 Bob Evans,United Kingdom,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/bob-evans-information-statistics/
+Patrick Nève,Belgium,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/patrick-neve-information-statistics/
+Olivier Beretta,Monaco,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/olivier-beretta-information-statistics/
+Rikky von Opel,Liechtenstein,10,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rikky-von-opel-information-statistics/
+George Eaton,Canada,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-eaton-information-statistics/
+André Simon,France,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-simon-information-statistics/
+Guy Edwards,United Kingdom,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/guy-edwards-information-statistics/
 Pascal Fabre,France,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/pascal-fabre-information-statistics/
 Karun Chandhok,India,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/karun-chandhok-information-statistics/
-David Walker,Australia,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dave-walker-information-statistics/
-Robert Doornbos,Netherlands,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robert-doornbos/
-George Eaton,Canada,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/george-eaton-information-statistics/
-Larry Perkins,Australia,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/larry-perkins-information-statistics/
-André Simon,France,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andre-simon-information-statistics/
 Dave Charlton,South Africa,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dave-charlton-information-statistics/
-Guy Edwards,United Kingdom,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/guy-edwards-information-statistics/
+Robert Doornbos,Netherlands,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/robert-doornbos/
+Larry Perkins,Australia,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/larry-perkins-information-statistics/
+David Walker,Australia,11,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/dave-walker-information-statistics/
 Rio Haryanto,Indonesia,12,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rio-haryanto-information-statistics/
 François Migault,France,13,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/francois-migault-information-statistics/
-Roberto Merhi,Spain,13,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-merhi-information-statistics/
 Hans Binder,Austria,13,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/hans-heyer-information-statistics/
+Roberto Merhi,Spain,13,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-merhi-information-statistics/
 Lance Macklin,United Kingdom,13,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lance-macklin-information-statistics/
-Alex Yoong,Malaysia,14,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alex-yoong/
 Corrado Fabi,Italy,14,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/corrado-fabi-information-statistics/
-Giorgio Pantano,Italy,14,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giorgio-pantano-information-statistics/
 Martin Donnelly,United Kingdom,14,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/martin-donnelly-information-statistics/
 Luciano Burti,Brazil,14,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/luciano-burti-information-statistics/
-Esteban Tuero,Argentina,16,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/esteban-tuero-information-statistics/
+Giorgio Pantano,Italy,14,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giorgio-pantano-information-statistics/
+Alex Yoong,Malaysia,14,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/alex-yoong/
 Nanni Galli,Italy,16,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/nanni-galli-information-statistics/
 Allan McNish,United Kingdom,16,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/allan-mcnish/
+Esteban Tuero,Argentina,16,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/esteban-tuero-information-statistics/
 Adrián Campos,Spain,17,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/adrian-campos-information-statistics/
 Gianmaria Bruni,Italy,18,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gianmaria-bruni-information-statistics/
 Ian Scheckter,South Africa,18,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-scheckter-information-statistics/
 Taki Inoue,Japan,18,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/taki-inoue-information-statistics/
 Lucas di Grassi,Brazil,18,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/lucas-di-grassi-information-statistics/
-Giedo van der Garde,Netherlands,19,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giedo-van-der-garde-information-statistics/
 François Hesnault,France,19,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/francois-hesnault-information-statistics/
 Will Stevens,United Kingdom,19,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/will-stevens-information-statistics/
 Harald Ertl,Austria,19,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/harald-ertl-information-statistics/
-Andrea Montermini,Italy,20,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andrea-montermini-information-statistics/
+Giedo van der Garde,Netherlands,19,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/giedo-van-der-garde-information-statistics/
 Brian Henton,United Kingdom,20,0,0,0,0,0,1,0,0,https://www.f1-fansite.com/f1-drivers/brian-henton-information-statistics/
 Jérôme d&#039;Ambrosio,Belgium,20,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jerome-dambrosio-information-statistics/
+Andrea Montermini,Italy,20,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andrea-montermini-information-statistics/
 Sakon Yamamoto,Japan,21,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/sakon-yamamoto-information-statistics/
 Gastón Mazzacane,Argentina,21,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/gaston-mazzacane-information-statistics/
 Nikita Mazepin,Russian Federation,21,0,0,0,0,0,1,0,0,https://www.f1-fansite.com/f1-drivers/nikita-mazepin/
 Roberto Guerrero,Colombia,21,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/roberto-guerrero-information-statistics/
 Ian Burgess,United Kingdom,22,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ian-burgess-information-statistics/
-Johnny Claes,Belgium,23,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/johnny-claes-information-statistics/
 Raul Boesel,Brazil,23,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/raul-boesel-information-statistics/
-David Brabham,Australia,24,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-brabham-information-statistics/
-Anthony Davidson,United Kingdom,24,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andy-sutcliffe-information-statistics/
+Johnny Claes,Belgium,23,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/johnny-claes-information-statistics/
 Yannick Dalmas,France,24,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/yannick-dalmas-information-statistics/
 Jan Lammers,Netherlands,24,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/jan-lammers/
+David Brabham,Australia,24,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/david-brabham-information-statistics/
+Anthony Davidson,United Kingdom,24,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/andy-sutcliffe-information-statistics/
 Tarso Marques,Brazil,25,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/tarso-marques/
 Rupert Keegan,United Kingdom,25,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/rupert-keegan-information-statistics/
-Ricardo Rosset,Brazil,26,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ricardo-rosset-information-statistics/
 Huub Rothengatter,Netherlands,26,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/huub-rothengatter-information-statistics/
+Ricardo Rosset,Brazil,26,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/ricardo-rosset-information-statistics/
+Enrique Bernoldi,Brazil,28,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/enrique-bernoldi-information-statistics/
 Scott Speed,United States,28,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/scott-speed-information-statistics/
 Mike Beuttler,United Kingdom,28,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/mike-beuttler-information-statistics/
-Enrique Bernoldi,Brazil,28,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/enrique-bernoldi-information-statistics/
 Toranosuke Takagi,Japan,32,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/toranosuke-takagi-information-statistics/
 Brett Lunger,United States,34,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/brett-lunger-information-statistics/
 Max Chilton,United Kingdom,35,0,0,0,0,0,0,0,0,https://www.f1-fansite.com/f1-drivers/max-chilton-information-statistics/
