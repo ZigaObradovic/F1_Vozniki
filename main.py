@@ -54,7 +54,7 @@ def main(redownload=True, reparse=True):
 
     path = os.path.join(drivers_directory, csv_filename)
     if reparse or not os.path.exists(path):
-        write_csv.write_drivers_to_csv(sez, drivers_directory, 'F1_drivers2.csv')
+        write_csv.write_drivers_to_csv(sez, drivers_directory, 'F1_drivers_razsirjeno.csv')
     else:
         print("Datoteka csv že obstaja")
 

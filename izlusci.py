@@ -52,24 +52,3 @@ def drivers_from_file(filename, directory):
     blocks = page_to_drivers(page_content)
     drivers = [get_dict_from_driver_block(block) for block in blocks]
     return [driver for driver in drivers if driver != None]
-
-def get_url_from_block(block):
-    vzorec_dodatni_url = r"></a> <a href='(.*?)' title="
-    dodatni_url = re.search(vzorec_dodatni_url, block)
-    if dodatni_url == None:
-        return None
-    else:
-        return dodatni_url.group(1)
-
-
-def dodatni_url(filename, directory):
-    page_content = read_file_to_string(directory, filename)
-    blocks = page_to_drivers(page_content)
-    return [get_url_from_block(block) for block in blocks if get_url_from_block(block) != None]
-
-
-def urls(filename, directory):
-    page_content = read_file_to_string(directory, filename)
-    blocks = page_to_drivers(page_content)
-    drivers = [get_dict_from_driver_block(block) for block in blocks]
-    return [driver['dodatni url'] for driver in drivers if driver != None]
