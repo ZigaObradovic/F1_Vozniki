@@ -21,7 +21,7 @@ def main(redownload=True, reparse=True):
     if redownload or not os.path.exists(path):
         uvozi.save_frontpage(drivers_page_url, drivers_directory, frontpage_filename)
     else:
-        print("datoteka html že obstaja")
+        print(f"datoteka {frontpage_filename} že obstaja")
 
     path = os.path.join(drivers_directory, csv_filename)
     if reparse or not os.path.exists(path):
@@ -61,7 +61,7 @@ def main(redownload=True, reparse=True):
             if redownload or not os.path.exists(path):
                 uvozi.save_frontpage(drivers_page_url, drivers_directory, frontpage_filename2)
             else:
-                print("datoteka html že obstaja")
+                print(f"datoteka {frontpage_filename2} že obstaja")
         
             sez.append(izlusci2.drivers_from_file(frontpage_filename2, drivers_directory))
             i += 1
