@@ -17,15 +17,34 @@ sez = []
 
 def preberi_stevilo():
     max_tock = izlusci.najvec_tock(frontpage_filename, drivers_directory)
-    niz = input("> Vnesi najnižje število točk, ki jih morajo imeti vozniki, ki jih želite dodatno analizirati (priporočljivo: 500): ")
-    if niz.isnumeric() and int(niz) < max_tock or niz[1:].isnumeric() and niz[0] == "-":
-        return int(niz)
-    elif niz.isnumeric() and int(niz) >= max_tock or niz[1:].isnumeric() and niz[0] == "-":
-        print(f'Žal mora biti število manjše od {max_tock}')
+    niz = input("\n> Vnesi najnižje število točk, ki jih morajo imeti vozniki, ki jih želite dodatno analizirati (priporočljivo: 500): ")
+    if niz.isnumeric() and int(niz) < max_tock:
+        return preveri(int(niz))
+    elif niz.isnumeric() and int(niz) >= max_tock:
+        print(f'\nŽal mora biti število manjše od {max_tock}.')
         return preberi_stevilo()
     else:
-        print(f'Žal "{niz}" ni celo število, poskusi ponovno!')
+        print(f'\nŽal "{niz}" ni pozitivno celo število, poskusi ponovno!')
         return preberi_stevilo()
+    
+
+def preveri(n):
+    k = 0
+    for driver in izlusci.drivers_from_file(frontpage_filename, drivers_directory):
+        if int(driver['točke']) > n:
+            k += 1
+    niz2 = input(f'\n> Ustvarili boste {k} html datotek za dodatno analizo. Če želite nadaljevati vnesite "Da", sicer vnesite "Ne":')
+    if niz2 == "Da":
+        return n
+    elif niz2 == "Ne":
+        print('\nČe želite ustvariti manj html datotek za dodatno analzo vnesite višje število točk.')
+        return preberi_stevilo()
+    else:
+        print(f'\nVaš vnos je bil "{niz2}". Prosim vnesite "Da" ali "Ne".')
+        return preveri(n)
+        
+
+
 
 
 
