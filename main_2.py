@@ -33,7 +33,7 @@ def preveri(n):
     for driver in izlusci.drivers_from_file(frontpage_filename, drivers_directory):
         if int(driver['točke']) > n:
             k += 1
-    niz2 = input(f'\n> Ustvarili boste {k} html datotek za dodatno analizo. Če želite nadaljevati vnesite "Da", sicer vnesite "Ne":')
+    niz2 = input(f'\n> Ustvarili boste {k} html datotek za dodatno analizo. Če želite nadaljevati vnesite "Da", sicer vnesite "Ne": ')
     if niz2 == "Da":
         return n
     elif niz2 == "Ne":

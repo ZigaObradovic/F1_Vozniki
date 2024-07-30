@@ -1,7 +1,7 @@
-import main1
-import main2
+import main_1
+import main_2
 
 
 
-main1.main(False, True)
-main2.main(False, True)
+main_1.main(False, True)
+main_2.main(False, True)
