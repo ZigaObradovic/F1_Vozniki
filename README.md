@@ -4,5 +4,4 @@ Osnovne podatke sem pridobil iz spletne strani https://www.f1-fansite.com/f1-res
 
 ### Navodila za uporabo: 
 Najprej zaženite datoteko main.py, ki bo na podlagi spletne strani najprej ustvarila prvo csv datoteko. Nato vas vpraša za vnos števila točk, ki jih imajo vozniki, na podlagi katerih bo izbral voznike za dodatno analizo. Glede na vaš vnos se bo za vsakega voznika ustvarila html datoteka, katera ustreza pogoju, ki ste ga podali. Za število le teh vas ne rabi skrbeti, saj boste v naslednjem morali potrditi, da vam število na novo ustvarjenih html datotek ustreza. Če boste s svojo izbiro zadovoljni, se bo ustvarila še dodatna csv datoteka, sicer pa vas program vpraša po ponovnem vnosu števila točk za dodatno analizo.
-
-
+S tem so vsi podatki pripravljeni in potrebno je le še pognati zvezek analiza_voznikov.ipynb, kjer so podatki analizirani s pomočjo grafov in tabel.
