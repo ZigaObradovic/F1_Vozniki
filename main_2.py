@@ -18,7 +18,7 @@ sez = []
 def preberi_stevilo():
     max_tock = izlusci.najvec_tock(frontpage_filename, drivers_directory)
     niz = input("\n> Vnesi najnižje število točk, ki jih morajo imeti vozniki, ki jih želite dodatno analizirati (priporočljivo: 500): ")
-    if niz.isnumeric() and int(niz) < max_tock:
+    if niz.isnumeric() and int(niz) <= max_tock:
         return preveri(int(niz))
     elif niz.isnumeric() and int(niz) >= max_tock:
         print(f'\nŽal mora biti število manjše od {max_tock}.')
