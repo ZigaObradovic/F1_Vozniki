@@ -34,9 +34,9 @@ def preveri(n):
         if int(driver['točke']) > n:
             k += 1
     niz2 = input(f'\n> Ustvarili boste {k} html datotek za dodatno analizo. Če želite nadaljevati vnesite "Da", sicer vnesite "Ne": ')
-    if niz2 == "Da":
+    if niz2.upper() == "DA":
         return n
-    elif niz2 == "Ne":
+    elif niz2.upper() == "NE":
         print('\nČe želite ustvariti manj html datotek za dodatno analzo vnesite višje število točk.')
         return preberi_stevilo()
     else:
