@@ -4,13 +4,13 @@ import write_csv
 import os
 
 
-
 drivers_directory = uvozi.drivers_directory
+
 frontpage_filename = uvozi.frontpage_filename
+
 drivers_page_url = uvozi.drivers_page_url
+
 csv_filename = 'F1_drivers.csv'
-
-
 
 
 

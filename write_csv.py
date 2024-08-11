@@ -2,6 +2,7 @@ import csv
 import os
 
 
+
 def write_csv(fieldnames, rows, directory, filename):
     os.makedirs(directory, exist_ok=True)
     path = os.path.join(directory, filename)
@@ -11,6 +12,7 @@ def write_csv(fieldnames, rows, directory, filename):
         for row in rows:
             writer.writerow(row)
     return
+
 
 
 def write_drivers_to_csv(drivers, directory, filename):

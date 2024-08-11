@@ -2,11 +2,13 @@ import re
 import os
 
 
+
 def read_file_to_string(directory, filename):
     path = os.path.join(directory, filename)
     with open(path, encoding='utf-8') as file_in:
         text = file_in.read()
     return text
+
 
 
 def get_dict_from_driver_page(page):
@@ -28,6 +30,8 @@ def get_dict_from_driver_page(page):
         return None
     else:
         return {"ime": ime.group(1), "višina (m)": visina.group(1), "starost": starost.group(2), "povp. štartno mesto": povp_startno_mesto.group(1), "povp. končno mesto": povp_koncno_mesto.group(1), "prevoženi krogi": prevozeni_krogi.group(1)}
+    
+
     
 def drivers_from_file(filename, directory):
     page_content = read_file_to_string(directory, filename)
